@@ -1,0 +1,137 @@
+- 
+  date: "Week 1 (Jan 26) "
+  materials: "Basics of Ray Tracing by Eric Haines [Video](https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/) <br/>
+              Rasterization by Eric Haines [Video](https://news.developer.nvidia.com/ray-tracing-essentials-part-2-rasterization-versus-ray-tracing/) <br/>
+              Read RTiOW Sections 1-5 [Web Book](https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere/creatingourfirstraytracedimage)"
+  title: "Introduction to Ray Tracing"
+- 
+  date: "Week 1 (Jan 28) "
+  materials: "Course Overview [Video](https://classtranscribe.illinois.edu/video?id=21f12c34-6ab6-41a4-96b4-e7e707c2f25a&from=sharedlink) <br/>
+              Basic Ray Tracing [Video](https://classtranscribe.illinois.edu/video?id=19c6b086-3407-4bbc-870d-8ef7f2351e0b&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-2-RayTracing.pdf)<br/>
+              <br/>Great Moments in Graphics:<br/> Kristen Bell and Eric B. Jordan <br/> presenting an Oscar for the PBR book [Video](https://youtu.be/7d9juPsv1QU)<br/><br/>
+              NVIDIA RTX Demos&nbsp;[Web page](https://www.nvidia.com/en-us/geforce/news/atomic-heart-justice-reflections-nvidia-rtx-tech-demo-downloads/) "
+  title: "Basic Ray Tracing"
+- 
+  date: "Week 2 (Feb 2)"
+  materials: "MP1 Specification [Web page](https://illinois-cs419.github.io/assignments/mp1.html) <br/>
+              Anti-aliasing [Video](https://classtranscribe.illinois.edu/video?id=b69b34d9-eae4-422d-a23d-9f3bf40708f7&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-4-SimpleAntiAliasing.pdf)"
+  title: " Anti-Aliasing "
+-
+  date: "Week 2 (Feb 4)"
+  materials: "Sampling [Video](https://classtranscribe.illinois.edu/video?id=17632f2c-9c1d-425e-b777-82a64ba90972&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/sampling-annotated.pdf) <br/>
+              Phong Reflection Model [Video](https://classtranscribe.illinois.edu/video?id=ed15a6d7-8eb6-407f-8acf-5ada8c70430c&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-PhongShading-clean.pdf)
+              <br/><italic>Multi-Jittered Sampling</italic> by Kenneth Chiu, Changyaw Wang, Peter Shirley, 1994 [PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/Papers/multi-jittered.pdf)"
+  
+  title: "Sampling <br/>
+          Phong Reflection Model"
+-
+  date: "Week 3 (Feb 9)"
+  materials: "Shadows [Video](https://classtranscribe.illinois.edu/video?id=ca3d14ea-ee18-4ad2-9e3f-0923c2fffcda&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Shadows-clean.pdf) <br/>
+          A Camera Model [Video](https://classtranscribe.illinois.edu/video?id=ff55aad7-87d4-4726-8c55-4c15fb201f69&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Camera2-clean.pdf)<br/>
+          _Ray Tracing from the Ground Up_ Chapter 9 [UIUC Library](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)
+          "
+  title: "Shadows <br/>
+          A Camera Model"
+-
+  date: "Week 3 (Feb 11)"
+  materials: "Ray-Sphere Intersection [Video](https://classtranscribe.illinois.edu/video?id=e8d50d93-d924-42fa-a09d-274f027a7ffd&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-3-RaySphere.pdf)"
+  title: "Ray-Sphere Intersection"
+
+-  
+  date: "Week 4 (Feb 16)"
+  materials: "Barycentric Coordinates [Video](https://classtranscribe.illinois.edu/video?id=32d58bdb-b2e6-4cd0-88b0-29fc76ee61af&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-4-RayTri.pdf)"
+  title: "Barycentric Coordinates <br/>
+          Ray-Triangle Intersection"
+-  
+  date: "Week 4 (Feb 18)"
+  materials: "Depth of Field [Video](https://classtranscribe.illinois.edu/video?id=4bd00d51-570f-4f75-a771-367a26a5fec7&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/DepthOfField.pdf)"
+  title: "Defocus Blur"
+-
+  date: "Week 5 (Feb. 23)"
+  materials: "Regular Grids [Video](https://classtranscribe.illinois.edu/video?id=8db744dd-a204-4d7c-b56d-81fcb9847b42&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-UniformGrids.pdf)"
+  title: "Acceleration Structures"
+-
+  date: "Week 5 (Feb. 25)"
+  materials: "Bounding Volume Hierarchies [Video](https://classtranscribe.illinois.edu/video?id=9dcb24c2-b4aa-4b86-b5fc-c1065337b4d1&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-BVH-clean.pdf) <br/>
+              <i>Physically Based Rendering</i> Section 4.3 [Link](http://www.pbr-book.org/3ed-2018/Primitives_and_Intersection_Acceleration/Bounding_Volume_Hierarchies.html#) <br/>
+              <i>Ray Tracing the Next Week</i> Section 3 [Link](https://raytracing.github.io/books/RayTracingTheNextWeek.html#boundingvolumehierarchies)"
+  title: "Acceleration Structures"
+- 
+  date: "Week 6 (March 2)"
+  materials: "Affine Transformations [Video](https://classtranscribe.illinois.edu/video?id=40963ec1-4a51-4d26-999b-d7325fccc7b8&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Affine.pdf)"
+  title: "Affine Transformations"
+- 
+  date: "Week 6 (March 2)"
+  materials: "Surface Normals [Video](https://classtranscribe.illinois.edu/video?id=2a8b7b2d-4804-4d17-af63-a751624fa9d6&begin=12&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-13-1-Normals.pdf)"
+  title: "Surface Normals"
+-
+  date: "Week 7: March 11"
+  materials: "_Ray Tracing Essentials Part 6: The Rendering Equation_ - Eric Haines[Video](https://youtu.be/AODo_RjJoUA) "
+  title: "The Rendering Equation"
+-  
+  date: "Week 8: March 16"
+  materials: "Rendering Equation [Video](https://classtranscribe.illinois.edu/video?id=25be368e-2109-4f37-96ba-16fb248b9b2a&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-RenderingEquation-clean.pdf) <br/>
+              _Ray Tracing from the Ground Up_ Chapter 9 [UIUC Library](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)"
+  title: "Theoretical Foundations"
+-  
+  date: "Week 9: March 23"
+  materials: "Monte Carlo Methods [Video](https://classtranscribe.illinois.edu/video?id=02c8afaf-cd27-4cd3-a568-fbda170c05ce&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-MC.pdf) <br/>
+              Area Lights [Video](https://classtranscribe.illinois.edu/video?id=b5c54e93-9316-4707-b4c0-6df14ef546f6&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Area-Clean.pdf) <br/>
+              _Ray Tracing from the Ground Up_ Chapter 13 & 18 [UIUC Library](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)"
+  title: "Monte Carlo Ray Tracing"  
+-
+  date: "Week 9: March 25"
+  materials: "Mirrors [Video](https://classtranscribe.illinois.edu/video?id=8d986c3e-c3f1-42f0-8fd8-d1636c8067f2&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Mirror-clean.pdf)"
+  title: "Mirror Reflection"
+-
+  date: "Week 10: March 30"
+  materials: "Transparency [Video](https://classtranscribe.illinois.edu/video?id=565e428f-35d5-4439-b6e8-1deb2b1ac384&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Transparency.pdf)<br/>
+              _Ray Tracing from the Ground Up_ Chapter 27 [UIUC Library](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)"
+  title: "Transparency"
+-
+  date: "Week 10: April 1"
+  materials: "Path Tracing [Video](https://classtranscribe.illinois.edu/video?id=5a14d69e-e7e9-4f7a-b6a0-2bd4935f15f8&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Path1.pdf)"
+  title: "Path Tracing"
+-
+  date: "Week 11: April 6"
+  materials: "Sampling for AO [Video](https://classtranscribe.illinois.edu/video?id=67349188-a7b8-4358-94c6-1ad0d9bdc5d2&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Ambient.pdf)"
+  title: "Ambient Occlusion"
+-
+  date: "Week 11: April 8"
+  materials: " Noise-Based Textures [Video](https://classtranscribe.illinois.edu/video?id=f17faa88-dde8-4940-afaa-2dde470dc751&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Texture-1.pdf)<br/>
+ Linear Interpolation [Video](https://classtranscribe.illinois.edu/video?id=57cdc0ed-0fc0-4ced-bc68-3db1766823b4&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Texture-2pdf)<br/>
+  Cubic Interpolation [Video](https://classtranscribe.illinois.edu/video?id=ffa8a495-3915-42ff-b049-321837bb70a0&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Texture-3.pdf)<br/>
+  Sums of Functions [Video](https://classtranscribe.illinois.edu/video?id=459d8b40-b1fb-4285-961d-dae25c12929e&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Texture-4.pdf)"
+  title: "Texture Mapping"
+- 
+  date: "Week 12: April 13"
+  materials: ""
+  title: "Spring Break Day"
+  
+  date: "Week 12: April 15"
+  materials: "CSG [Video](https://classtranscribe.illinois.edu/video?id=2151960e-2085-46c8-97e7-545c526ad9f5&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-CSG2-clean.pdf)"
+  title: "Modeling with Implicit Surfaces"
+-
+  date: "Week 13: April 20"
+  materials: "Photon Mapping [Video](https://classtranscribe.illinois.edu/video?id=7d9b2c0f-3979-4cd2-944e-0e496a676b11&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Photon.pdf)"
+  title: "Photon Mapping"
+-
+  date: "Week 13: April 22"
+  materials: "Going fast: Parallelizing Your Ray Tracer [Video](https://classtranscribe.illinois.edu/video?id=a46e668c-bca8-4678-be23-7eb8a0f660d3&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-1.pdf)<br/>
+  Basics of Optimization [Video](https://classtranscribe.illinois.edu/video?id=8c5a7d77-1f1c-4657-990e-c2c6aff1b590&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-2.pdf)<br/>
+  Going Parallel [Video](https://classtranscribe.illinois.edu/video?id=76fafc88-0200-4ea7-9b41-eb5789164865&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-3.pdf)<br/>
+  Structure of GPU Shaders [Video](https://classtranscribe.illinois.edu/video?id=1eb4515e-c45c-4ca6-b29e-fd8864e0c99b&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-4.pdf)<br/>
+  Multi-bounce Lighting [Video](https://classtranscribe.illinois.edu/video?id=1731c77d-2824-49da-801d-2d377ec50c67&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-5.pdf)"
+  title: "Parallel Ray-Tracing"  
+-  
+  date: "Week 14: April 27"
+  materials: "Radiosity [Video](https://classtranscribe.illinois.edu/video?id=c12a0702-6002-4257-b4d1-611c73d71f4f&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Radiosity.pdf)"
+  title: "Radiosity"
+-
+  date: "Week 14: April 29"
+  materials: " Glossy Reflection [Video](https://classtranscribe.illinois.edu/video?id=5980536d-2df8-491f-bc41-88646055d9e3&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Glossy.pdf)"
+  title: "Glossy Specular Reflection"
+-
+  date: "Week 15: May 4"
+  materials: "Navier Stokes Equations [Video](https://classtranscribe.illinois.edu/video?id=83b5559e-b281-47e9-97a2-ada4428d14f2&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Fluid-Theory.pdf)"
+  title: "Fluids"
