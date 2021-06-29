@@ -10,7 +10,7 @@ permalink: /
 
 ## Overview ##
 
-Game Development is about the techniques and technologies used to create video games. The main focus of the course will be 3D photorealistic physically-based rendering methods currently used in cinematic rendering and games.
+Game Development is about the software development techniques and technologies used to create video games. The course uses Unreal Engine and C++ as the platform for game development. In addition
 
 The course is project-oriented and
 
@@ -47,22 +47,18 @@ Assigned work will include 8 quizzes, 2 programming assignments, and a final pro
 
 #### Bi-Weekly Quizes ####
 There will be 8 short quizzes on PrairieLearn. These quizzes will be based on the lecture material.
-+ **Each quiz can be taken up to 5 times with the maximum score reduced each attempt. The maximum credit on the $N$th attempt is $$100 - 10\times(N-1) **
-+ **They are due at midnight 7 days after they are assigned.**
++ **Each quiz can be taken up to 5 times with the maximum score reduced each attempt. The maximum credit on the $$N$$th attempt is $$100 - 10\times(N-1)$$ **
++ **They are due at midnight 10 days after they are assigned.**
 
 #### Programming Assignments ####
-There will be 2 programming assignments that will 
+There will be 2 programming assignments that will serve as an introduction to Unreal.
 
 #### Project ####
-The course project will be team-based with teams of 3 to 5 people working on a project. You will have a choice of what to implement, but your proposed project is expected to be related to game development in some way...typically it should be a game. The grading citeria and 
-
-
-
-The exams will be asynchronous and can be taken any time during the week assigned. They are time-limited, so once you start you will have 60 minutes to finish. They are open web - you can use any reference material you wish while taking the exam. You should not collaborate with other people. Any instances of collaboration will be considered a violation of academic integrity and will result in a 0 on the exam and a letter grade reduction in the final course grade. Also, the nature of the exam will make collaboration unhelpful - you will get a better grade working on your own rather than wasting time trying to work together. 
-
-A second-chance exam will be offered the week after which will not be identical to the first exam but will cover the same topics. If taken, this exam will be for a maximum of 80% credit and can be used to replace the original exam score.
+The course project will be team-based with teams of 3 to 5 people working on a project. You will have a choice of what to implement, but your proposed project is expected to be related to game development in some way...typically it should be a game. The grading citeria and development process are described on the Project page.
 
 #### 4 Credit Project ####
+
+Students 
 
 ## Grades ##
 We will post grades on [Compass 2g](https://compass.illinois.edu){:target="_blank" rel="noopener"}.
