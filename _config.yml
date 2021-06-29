@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS 419 Production Computer Graphics
+title: CS 498GD Game Development
 description: >- # this means to ignore newlines until "baseurl:"
-  © University of Illinois, 2019
+  © University of Illinois, 2021
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://courses.engr.illinois.edu/cs418" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "https://courses.engr.illinois.edu/cs418" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  shaffer1
-issues: https://github.com/illinois-cs418/illinois-cs418.github.io/issues/new
+issues: https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/issues/new
 # Build settings
 markdown: kramdown
 theme: minima
@@ -48,4 +48,4 @@ exclude:
 
 # Information about the lab
 lab:
-  unity-version: 2018.2.14
+  unreal-version: 4.26.2
