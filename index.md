@@ -29,7 +29,7 @@ We recommend the following courses and skills:
 
 ## Instructional Content ##
 
-The course will be taught using online lectures along with additional reading materials. There will ba one additional live online meeting per week that will offer opportunities for extra credit. 
+The course will be taught using online lectures along with additional reading materials. There will ba one live online meeting per week that will offer opportunities for extra credit. 
 
 #### Lectures ####
 
@@ -105,9 +105,10 @@ Use the passcode 3796.
 #### Course Staff ####
 
 * Professor Eric Shaffer, shaffer1@illinois.edu
-* CA
-* CA
-* CA
+* CA Nathaniel Cohen
+* CA Ian Rudnick
+* CA Charlie Agriogianis
+* CA Jeffrey Liu
 
 #### Mental Health ####
 Diminished mental health, including significant stress, mood changes, excessive worry, substance/alcohol abuse, or problems with eating and/or sleeping can interfere with optimal academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings at no additional cost. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below. Getting help is a smart and courageous thing to do -- for yourself and for those who care about you.
