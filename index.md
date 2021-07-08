@@ -10,22 +10,13 @@ permalink: /
 
 ## Overview ##
 
-Game Development is about the software development techniques and technologies used to create video games. The course uses Unreal Engine and C++ as the platform for game development. In addition
-
-The course is project-oriented and
-
-
-
-### Topics
-The topics we will cover include:
-
-
+This is a team and project-based course on video game design and development using Unreal Engine and C++. Topics covered will include geometric modeling, game physics and AI, shader programming, and software and engineering practices within the game industry. The central  focus of the course will be the design and development of a game by teams of 3 to 5 students. The course strongly empahsizes code development and there are no exams.
 
 #### Prerequisites ####
 We recommend the following courses and skills:
 
-- [CS 225](https://courses.engr.illinois.edu/cs225/){:target="_blank" rel="noopener"} - prior general programming experience
-- [Math 415](https://math.illinois.edu/resources/department-resources/syllabus-math-415){:target="_blank" rel="noopener"} - basic linear algebra, especially 3D transforms
+- [CS 225](https://courses.engr.illinois.edu/cs225/){:target="_blank" rel="noopener"} - prior general programming experience, preferably using C++
+- [Math 257](https://courses.illinois.edu/schedule/terms/MATH/257){:target="_blank" rel="noopener"} - or Math 415 or equivalent...basic linear algebra, especially 3D transforms
 
 ## Instructional Content ##
 
@@ -39,7 +30,7 @@ The course will be taught using online lectures along with additional reading ma
 
 #### Development Resources ####
 
-You will need to have access to a computer capable of running Unreal Engine. 
+You will need to have access to a computer capable of running Unreal Engine. You can test  
 
 ## Assessments ##
 
@@ -58,7 +49,11 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 
 #### 4 Credit Project ####
 
-Students 
+Students taking the course for 4 credits have three options for a 4 credit project:
+
++ Contribute to the ILLIXIR project
++ Add a new feauture to the Unreal Engine code base
++ Develop a plugin or other application suitable for publication in the [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/store)
 
 ## Grades ##
 We will post grades on [Compass 2g](https://compass.illinois.edu){:target="_blank" rel="noopener"}.
