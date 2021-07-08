@@ -46,7 +46,13 @@
   date: "Week 7 (Oct 5)"
   title: ""
 -  
+  date: "Week 7 (Oct 7)"
+  title: ""
+-  
   date: "Week 8 (Oct 12)"
+  title: ""
+- 
+  date: "Week 8 (Oct 14)"
   title: ""
 -  
   date: "Week 9 (Oct 19)"
@@ -80,11 +86,14 @@
   date: "Week 13 (Nov 18)"
   title: ""  
 -  
-  date: "Week 14 (Nov 30)"
+  date: "Week 14"
+  title: "**Fall Break**"  
+-  
+  date: "Week 15 (Nov 30)"
   title: ""
 -
-  date: "Week 14 (Dec 2)"
+  date: "Week 15 (Dec 2)"
   title: ""
 -
-  date: "Week 15 (Dec 7)"
+  date: "Week 16 (Dec 7)"
   title: ""
