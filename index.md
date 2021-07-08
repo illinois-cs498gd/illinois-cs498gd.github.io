@@ -25,7 +25,7 @@ The course will be taught using online lectures along with additional reading ma
 #### Lectures ####
 
 + Lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs498gd.github.io/schedule).
-+ **You can attend live lectures/discussions at 11am Central Time on Tuesdays at this [Zoom link](https://illinois.zoom.us/j/81558731281?pwd=UE1XUGFlVEUxOVp1cVhWNFNhVXJJdz09).**
++ **You can attend live lectures/discussions at 11am Central Time on Thursdays at this [Zoom link]().**
 + These lectures will be recorded and available on the course schedule.
 
 #### Development Resources ####
