@@ -1,26 +1,18 @@
 - 
   date: "Week 1 (Jan 26) "
-  materials: "Basics of Ray Tracing by Eric Haines [Video](https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/) <br/>
-              Rasterization by Eric Haines [Video](https://news.developer.nvidia.com/ray-tracing-essentials-part-2-rasterization-versus-ray-tracing/) <br/>
-              Read RTiOW Sections 1-5 [Web Book](https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere/creatingourfirstraytracedimage)"
-  title: "Introduction to Ray Tracing"
+  materials: ""
+  title: "Game Engine Concepts"
 - 
   date: "Week 1 (Jan 28) "
-  materials: "Course Overview [Video](https://classtranscribe.illinois.edu/video?id=21f12c34-6ab6-41a4-96b4-e7e707c2f25a&from=sharedlink) <br/>
-              Basic Ray Tracing [Video](https://classtranscribe.illinois.edu/video?id=19c6b086-3407-4bbc-870d-8ef7f2351e0b&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-2-RayTracing.pdf)<br/>
-              <br/>Great Moments in Graphics:<br/> Kristen Bell and Eric B. Jordan <br/> presenting an Oscar for the PBR book [Video](https://youtu.be/7d9juPsv1QU)<br/><br/>
-              NVIDIA RTX Demos&nbsp;[Web page](https://www.nvidia.com/en-us/geforce/news/atomic-heart-justice-reflections-nvidia-rtx-tech-demo-downloads/) "
-  title: "Basic Ray Tracing"
+  materials: ""
+  title: "Course Mechanics"
 - 
   date: "Week 2 (Feb 2)"
-  materials: "MP1 Specification [Web page](https://illinois-cs419.github.io/assignments/mp1.html) <br/>
-              Anti-aliasing [Video](https://classtranscribe.illinois.edu/video?id=b69b34d9-eae4-422d-a23d-9f3bf40708f7&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-4-SimpleAntiAliasing.pdf)"
-  title: " Anti-Aliasing "
+  materials: ""
+  title: "Unreal Engine Basics"
 -
   date: "Week 2 (Feb 4)"
-  materials: "Sampling [Video](https://classtranscribe.illinois.edu/video?id=17632f2c-9c1d-425e-b777-82a64ba90972&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/sampling-annotated.pdf) <br/>
-              Phong Reflection Model [Video](https://classtranscribe.illinois.edu/video?id=ed15a6d7-8eb6-407f-8acf-5ada8c70430c&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-PhongShading-clean.pdf)
-              <br/><italic>Multi-Jittered Sampling</italic> by Kenneth Chiu, Changyaw Wang, Peter Shirley, 1994 [PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/Papers/multi-jittered.pdf)"
+  materials: ""
   
   title: "Sampling <br/>
           Phong Reflection Model"
