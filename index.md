@@ -38,7 +38,8 @@ Assigned work will include 8 quizzes, 2 programming assignments, and a final pro
 
 #### Bi-Weekly Quizes ####
 There will be 8 short quizzes on PrairieLearn. These quizzes will be based on the lecture material.
-+ **Each quiz can be taken up to 5 times with the maximum score reduced each attempt. The maximum credit on the Nth attempt is 100 - 10(N-1)**
++ **Each quiz can be taken up to 5 times with the maximum score reduced each attempt.
+    The maximum credit on the Nth attempt is 100 - 10(N-1)**
 + **They are due at midnight 10 days after they are assigned.**
 
 #### Programming Assignments ####
@@ -52,7 +53,8 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 Students taking the course for 4 credits should select one of the following three options for a 4 credit project:
 
 + Contribute to the [ILLIXIR project](https://illixr.github.io/), open-source Extended Reality (XR) system and testbed.  
-+ Add a new feauture to the Unreal Engine code base, which is available on [Github](https://www.unrealengine.com/en-US/ue4-on-github).<\br>You can find more information about contributing on the [forum](https://forums.unrealengine.com/c/development-discussion/engine-source-github/33). 
++ Add a new feauture to the Unreal Engine code base, which is available on [Github](https://www.unrealengine.com/en-US/ue4-on-github). 
+  You can find more information about contributing on the [forum](https://forums.unrealengine.com/c/development-discussion/engine-source-github/33). 
 + Develop a plugin or other application suitable for publication in the [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/store)
 
 ## Grades ##
