@@ -38,7 +38,7 @@ Assigned work will include 8 quizzes, 2 programming assignments, and a final pro
 
 #### Bi-Weekly Quizes ####
 There will be 8 short quizzes on PrairieLearn. These quizzes will be based on the lecture material.
-+ **Each quiz can be taken up to 5 times with the maximum score reduced each attempt. The maximum credit on the $N$th attempt is $100 - 10\times(N-1)$**
++ **Each quiz can be taken up to 5 times with the maximum score reduced each attempt. The maximum credit on the $$N$$th attempt is $$100 - 10\times(N-1)$$**
 + **They are due at midnight 10 days after they are assigned.**
 
 #### Programming Assignments ####
