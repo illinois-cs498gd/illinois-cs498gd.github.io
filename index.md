@@ -58,7 +58,7 @@ You can find more information about contributing on the [forum](https://forums.u
 + Develop a plugin or other application suitable for publication in the [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/store)
 
 ## Grades ##
-We will post grades on [Compass 2g](https://compass.illinois.edu){:target="_blank" rel="noopener"}.
+We will post grades on [Canvas](https://canvas.illinois.edu/){:target="_blank" rel="noopener"}.
 
 We weight grades as follows:
 
