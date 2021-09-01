@@ -9,8 +9,8 @@
   title: "Course Mechanics"
 - 
   date: "Week 2: Aug 31"
-  materials: ""
-  title: "Unreal Engine Basics"
+  materials: "Level Design [Video]() &nbsp; [PDF]https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture04.pdf()"
+  title: "Design Principles"
 -
   date: "Week 2: Sep 2"
   materials: ""
@@ -18,7 +18,7 @@
 -
   date: "Week 3: Sep 7"
   materials: ""
-  title: "Design Principles"
+  title: "Unreal Engine Basics"
 -
   date: "Week 3: Sep 9"
   title: "Design Principles"
