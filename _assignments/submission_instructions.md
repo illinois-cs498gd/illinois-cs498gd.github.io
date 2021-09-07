@@ -1,1 +1,1 @@
-Hand-in will be done on Canavas.
+Hand-in will be done on Canvas.
