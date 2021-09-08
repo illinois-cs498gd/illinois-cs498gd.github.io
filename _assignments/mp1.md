@@ -50,7 +50,6 @@ For your first programming assignment, in honor of Keanu Reeves turning 57 years
 Your task is to do the following:
 
 ### 1. Complete the Tutorial:<br/>
-
 Complete this [tutorial on making a simple game by Ray Wenderlich](https://www.raywenderlich.com/454-how-to-create-a-simple-game-in-unreal-engine-4). Do not skip the tutorial and just grab the finished code; complete the tutorial. It teaches almost all of what you need to know to implement the additional features below (features that are not included in the finished tutorial code posted at the site).
 
 ### 2. Add a health system for the player. Your health system should:
