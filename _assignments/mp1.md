@@ -103,8 +103,8 @@ Complete this [tutorial on making a simple game by Ray Wenderlich](https://www.r
 
 **Keep your code in a repo...and use .gitignore and LFS support to handle large files.** You can find a reasonably good [tutorial here](https://odederell3d.blog/2020/04/22/unreal-engine-4-github-first-steps/) . You can use the commercial [github.com]() or the [internal UIUC github](https://github-dev.cs.illinois.edu/).  
 
-# Technical Details
-## Adding a Healthbar
+## Technical Details
+### Adding a Healthbar
 
 The steps to adding health bar would be:
 1. Create an int/float "Health" variable for the player
@@ -113,7 +113,7 @@ The steps to adding health bar would be:
 4. Update the game logic to only stop when the health reaches 0
 5. Reset the health bar when the game is reset
 
-### Hints
+#### Hints
 
 There is a video tutorial called "Adding Health and Debug Damage" and "Widget Blueprint Introduction" in the "Welcome to Game Development" course by Unreal Engine, which helps introduce basics of adding a health bar.
 
@@ -122,7 +122,7 @@ The initial project file uses the WallMesh's "OnComponentHit" to process a colli
 The Blueprint graph may also be a lot cleaner if a "ProcessHit" function is made to update the health bar of the BP_Player (otherwise, you need a lot of "BP_Player" reference connections). The "isDead" boolean can optionally be replaced with a conditional depending on whether or not the health equals 0.
 
 
-## Adding a Score
+### Adding a Score
 
 The steps to adding a score are relatively similar to a health bar:
 1. Create an int "Score" variable for the player
@@ -130,7 +130,7 @@ The steps to adding a score are relatively similar to a health bar:
 3. Update the tunnel logic to increment the score properly
 4. Reset the score when the game is reset
 
-### Hints
+#### Hints
 
 One tricky thing about updating the score is when to figure out when the score should actually updated (i.e. the score should only be updated when the player successfully passes through the hole). There are probably multiple ways to do this, but this is how I did it:
 - If the player hits the WallMesh, the score is decremented
@@ -139,14 +139,14 @@ One tricky thing about updating the score is when to figure out when the score s
 
 This way, when a player collides through the wall and then passes the TriggerZone, the score is simultaneously incremented and decremented, so the score display does not change at all.
 
-## Adding Healthpacks
+### Adding Healthpacks
 
 The steps to adding health packs are:
 1. Create a static mesh blueprint to represent the health pack
 2. Add appropriate logic to update the player's health when obtained
 3. Add logic to create the health pack during tunnel creation
 
-### Hints
+#### Hints
 
 In this implementation, the logic for handling a health pack is very similar to that of handling a collision. If the player passes through the health pack, the health pack has an "OnComponentBeginOverlap" function that will update the player's health and health bar. The end of the function also destroys the actor.
 
@@ -154,7 +154,7 @@ Note that for whatever static mesh is used for the health pack, there must be a 
 
 In "BP_TunnelSpawner", a random number generator can be used to determine whether or not a health pack should be spawned. For example, for a 1/10 chance of a health pack in a tunnel, a range of 0-9 can be used, where a health pack is only spawned when the randomly generated number equals a certain value.
 
-## Adding an Enemy
+### Adding an Enemy
 
 In this implementation, adding enemies included:
 1. Updating the input actions for a "Shoot" action
@@ -164,13 +164,13 @@ In this implementation, adding enemies included:
 5. Adding logic for the collision between the projectile and the enemy
 6. Adding logic for the interaction between the enemy and the player
 
-### Hints
+#### Hints
 
 Similar to the healthpack, the static mesh used for the enemy must have a collision mesh. Otherwise, the collision between the projectile and the enemy will not be detected. Furthermore, a separate box collision may be necessary to detect whether or not the player has passed through the enemy.
 
 To update the score when the projectile hits the enemy, one possible method is for the projectile to carry a reference to the player who shot the projectile. Then, the player's score is updated upon collision.
 
-## Possible Visual Modifications
+### Possible Visual Modifications
 
 Some potential ideas for some visual modifications could be:
 - Health bar decreases along a gradient of colors
