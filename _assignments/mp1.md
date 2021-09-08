@@ -45,7 +45,7 @@ rubric:
 ## Specification
 For your first programming assignment, in honor of Keanu Reeves turning 57 years old and the upcoming release of Matrix 4 Resurrections you will implement a simple Matrix-themed game.  The goal here isn't to build a AAA game...it's probably not going to look amazing and that's fine. The goal is to learn to build an Unreal project from nothing and make an actual working game that expresses some creativity. And in any case, your game will likely be more entertaining than the Matrix sequel movies. 
 
-![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/matrix-4-5.png){:width="500px"}
+![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/matrix-4-5.png){:width="800px"}
 
 Your task is to do the following:
 
