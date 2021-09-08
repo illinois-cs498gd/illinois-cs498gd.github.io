@@ -1,6 +1,6 @@
 - 
   date: "Week 1: Aug 24 "
-  materials: "Introduction to Unreal Engine [Video](https://classtranscribe.illinois.edu/video?id=45d08962-c87b-4fe5-a485-3e2eb681af25&from=sharedlink)&nbsp;[Slides](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture02.pdf)"
+  materials: "Introduction to Unreal Engine [Video](https://classtranscribe.illinois.edu/video?id=45d08962-c87b-4fe5-a485-3e2eb681af25&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture02.pdf)"
   title: "Game Engine Concepts"
 - 
   date: "Week 1: Aug 27 "
@@ -17,11 +17,11 @@
   title: "The Game Industry"
 -
   date: "Week 3: Sep 7"
-  materials: ""
+  materials: "UI Design [Video](https://classtranscribe.illinois.edu/video?id=6dff5650-87ad-454b-992c-54b2a749d097&from=sharedlink) &nbsp; [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Game_Dev_With_UE4_Lecture09.pdf)"
   title: "Unreal Engine Basics"
 -
   date: "Week 3: Sep 9"
-  title: "Design Principles"
+  title: "Unreal Engine Basics"
 -  
   date: "Week 4: Sep 14"
   materials: ""
