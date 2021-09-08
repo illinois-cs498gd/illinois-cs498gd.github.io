@@ -90,7 +90,7 @@ Complete this [tutorial on making a simple game by Ray Wenderlich](https://www.r
 - Get faster over time, either directly based on time, or based on the player score
 - Increase at a rate that is noticeable but does not ramp up the difficulty too fast
 
-### 8. Add one creative modification that is unique to your game. Some ideas are:
+### 8. Add one creative modification that is unique to your game. Some ideas:
 - Health bar decreases along a gradient of colors
 - Add screen shake on collision with barriers and enemies
 - Color of the walls change depending on player health
