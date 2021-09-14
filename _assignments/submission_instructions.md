@@ -9,3 +9,7 @@ Some good options for video capture software are:
 + [QuickTime on Mac](https://support.apple.com/en-us/HT208721)
 
 If recording narration is problematic (e.g. you lack a microphone) you can skip that part. Please only resort to capturing video using your phone if you have tried one of the above methods and just could not get it to work. 
+
+On Canvas you should put the link to your code in the Comment box and then upload a video file using the Upload Media tab.
+
+![Canvas Upload](/img/canvasgd.PNG){:class="img-responsive" style="display:block; margin:auto" width="400px"}
