@@ -12,4 +12,4 @@ If recording narration is problematic (e.g. you lack a microphone) you can skip 
 
 On Canvas you should put the link to your code in the Comment box and then upload a video file using the Upload Media tab.
 
-![Canvas Upload](/img/canvasgd.PNG){:class="img-responsive" style="display:block; margin:auto" width="400px"}
+![Canvas Upload](/img/canvasgd.PNG){:class="img-responsive" style="display:block; margin:auto" width="800px"}
