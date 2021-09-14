@@ -1,7 +1,7 @@
 Hand-in will be done on Canvas. You will be expected to upload the following:
 
 1. A link to a git repo or drive/box folder containing your project code. It should be possible to build your game in Unreal using the submitted code.
-2. A short video up to 2 minutes long (can be much shorter) showing your game and demonstrating all the required features. Your video ideally should be a screnn cpature with brief narration by you pointing out the features as they appear in the game.
+2. A short video up to 2 minutes long (can be much shorter) showing your game and demonstrating all the required features. Your video ideally should be a screen capture with brief narration by you pointing out the features as they appear in the game.
 
 Some good options for video capture software are:
 + [OBS](https://obsproject.com/)
