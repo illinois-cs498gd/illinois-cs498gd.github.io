@@ -29,7 +29,7 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
 -  
   date: "Week 4: Sep 14"
   materials: "**[Quiz 1 on Prairielearn due 9/24](https://www.prairielearn.org/pl/course_instance/128696/assessment/2313648)** <br/>
-                Simple Game Example [Video](https://classtranscribe.illinois.edu/video?id=fee44b99-1afb-4502-a4da-3fa9109dcd64&from=sharedlink)[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/UE_Blueprints_Lecture05.pdf)"
+                Simple Game Example [Video](https://classtranscribe.illinois.edu/video?id=fee44b99-1afb-4502-a4da-3fa9109dcd64&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/UE_Blueprints_Lecture05.pdf)"
   title: "Unreal Engine Basics"
 -  
   date: "Week 4: Sep 16"
@@ -37,19 +37,22 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Basic Geometric Modeling"
 -
   date: "Week 5: Sep 21"
-  title: "Game Design"
+   materials: "Bezier Curves [Video](https://classtranscribe.illinois.edu/video?id=0a1abdf3-e07f-4eb1-94f8-57fb05aefce8&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-BezCurves.pdf) <br/>
+               Bezier Patches [Video](https://classtranscribe.illinois.edu/video?id=1efc1c4b-1f5a-4934-a31e-55c9edaf9686&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-BezPatch.pdf)"
+  title: "Basic Geometric Modeling"
 -
   date: "Week 5: Sep 23"
+  materials:"LOD Generation and Mesh Simplification [Video]&nbsp;[PDF]"
   title: "Basic Geometric Modeling"
 - 
   date: "Week 6: Sep 28"
-  title: "Graphics: Rasterization"
+  title: "Game Design"
 - 
   date: "Week 6: Sep 30"
-  title: "Graphics: Rasterization"
+  title: "Game Design"
 -
   date: "Week 7: Oct 5"
-  title: "Graphics: Shading"
+  title: "Graphics: Rasterization"
 -  
   date: "Week 7: Oct 7"
   title: "Graphics: Shading"
