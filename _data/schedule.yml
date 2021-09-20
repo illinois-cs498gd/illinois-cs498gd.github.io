@@ -37,12 +37,12 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Basic Geometric Modeling"
 -
   date: "Week 5: Sep 21"
-   materials: "Bezier Curves [Video](https://classtranscribe.illinois.edu/video?id=0a1abdf3-e07f-4eb1-94f8-57fb05aefce8&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-BezCurves.pdf) <br/>
+  materials: "Bezier Curves [Video](https://classtranscribe.illinois.edu/video?id=0a1abdf3-e07f-4eb1-94f8-57fb05aefce8&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-BezCurves.pdf) <br/>
                Bezier Patches [Video](https://classtranscribe.illinois.edu/video?id=1efc1c4b-1f5a-4934-a31e-55c9edaf9686&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-BezPatch.pdf)"
   title: "Basic Geometric Modeling"
 -
   date: "Week 5: Sep 23"
-  materials:"LOD Generation and Mesh Simplification [Video]&nbsp;[PDF]"
+  materials: "LOD Generation and Mesh Simplification [Video]&nbsp;[PDF]"
   title: "Basic Geometric Modeling"
 - 
   date: "Week 6: Sep 28"
