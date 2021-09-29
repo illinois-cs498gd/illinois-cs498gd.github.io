@@ -51,8 +51,8 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Graphics: Basics"
 -
   date: "Week 6: Sep 30"
-  materials: "Shading Basics [Video]()&nbsp;[PDF]() <br/>
-              Lighting in UE4  [Video]()&nbsp;[PDF]()"
+  materials: "Shading Basics [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/BasicShading.pdf) <br/>
+              Lighting in UE4  [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/UE4Light.pdf)"
   title: "Graphics: Lighting"
 - 
   date: "Week 7: Oct 5"
