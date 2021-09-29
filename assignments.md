@@ -20,4 +20,4 @@ To submit a regrade request:
 - You must submit regrade requests within one week after we release grades on a given assignment.
 
 ## Academic Integrity ##
-You should be familiar with the Student Code [definitions on academic integrity](http://studentcode.illinois.edu/article1_part4_1-401.html). We expect you to abide by them.
+You should be familiar with the Student Code [definitions on academic integrity](https://studentcode.illinois.edu/article1/part4/1-401/). We expect you to abide by them.
