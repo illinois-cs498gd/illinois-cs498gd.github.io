@@ -42,7 +42,8 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Basic Geometric Modeling"
 -
   date: "Week 5: Sep 23"
-  materials: "LOD Generation and Mesh Simplification [Video](https://classtranscribe.illinois.edu/video?id=8d51b96b-6310-45f8-bad7-0b46809a97be&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-SimplificationAndLOD.pdf)"
+  materials: "**[Quiz 2 on Prairielearn due 10/8](https://www.prairielearn.org/pl/course_instance/128696/assessment/2313978)** <br/>
+  LOD Generation and Mesh Simplification [Video](https://classtranscribe.illinois.edu/video?id=8d51b96b-6310-45f8-bad7-0b46809a97be&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-SimplificationAndLOD.pdf)"
   title: "Basic Geometric Modeling"
 - 
   date: "Week 6: Sep 28"
@@ -52,7 +53,7 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
 -
   date: "Week 6: Sep 30"
   materials: "Shading Basics [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/BasicShading.pdf) <br/>
-              Lighting in UE4  [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/UE4Light.pdf)"
+              Lighting in UE4 [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/UE4Light.pdf)"
   title: "Graphics: Lighting"
 - 
   date: "Week 7: Oct 5"
