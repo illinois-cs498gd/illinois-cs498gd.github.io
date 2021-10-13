@@ -68,6 +68,11 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Game Design"
 -  
   date: "Week 8: Oct 12"
+   materials: "Going fast: Parallelizing Your Ray Tracer [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-1.pdf)<br/>
+  Basics of Optimization [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-2.pdf)<br/>
+  Going Parallel [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-3.pdf)<br/>
+  Structure of GPU Shaders [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-4.pdf)<br/>
+  Multi-bounce Lighting [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-5.pdf)"
   title: "Graphics: Ray-Tracing"
 - 
   date: "Week 8: Oct 14"
