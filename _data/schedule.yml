@@ -77,12 +77,11 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Graphics: Ray-Tracing"
 - 
   date: "Week 8: Oct 14"
-  materials: "Ray tracing Basics[Video]()
-                          &nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/1-Overview.pdf)<br/>
-                          How to get Started with Real Time Tracing in Unreal [Video](https://www.youtube.com/watch?v=Bk5HOtRwgd8) <br/>
-                          Unreal Engine 4 Ray traicng Documentation [Link](https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/RayTracing/) <br/>
-                          Unreal Reflections Demo [Video](https://youtu.be/J3ue35ago3Y) <br/>
-                          Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)"
+  materials: "Ray Tracing Basics [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/1-Overview.pdf)<br/>
+              How to get Started with Real Time Tracing in Unreal [Video](https://www.youtube.com/watch?v=Bk5HOtRwgd8) <br/>
+              Unreal Engine 4 Ray traicng Documentation [Link](https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/RayTracing/) <br/>
+              Unreal Reflections Demo [Video](https://youtu.be/J3ue35ago3Y) <br/>
+              Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)"
   title: "Graphics: Ray-Tracing"
 -  
   date: "Week 9: Oct 19"
