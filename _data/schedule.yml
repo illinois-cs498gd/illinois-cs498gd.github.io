@@ -85,10 +85,11 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Graphics: Ray-Tracing"
 -  
   date: "Week 9: Oct 19"
-  title: "Animation"
+  materials: "**[Quiz 3 on Prairielearn due 10/31](https://www.prairielearn.org/pl/course_instance/128696/assessment/2314430)** <br/>"
+  title: "Graphics: Material Model"
 -
   date: "Week 9: Oct 21"
-  title: "Animation"
+  title: "Game Physics: Basic Physics Engine"
 -
   date: "Week 10: Oct 26"
   title: "Game Physics"
