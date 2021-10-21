@@ -89,7 +89,8 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Graphics: Material Model"
 -
   date: "Week 9: Oct 21"
-  title: "Game Physics: Basic Physics Engine"
+  materials: "[Deferred Shading](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-Deferred.pdf)"
+  title: "Graphics: Deferred Shading"
 -
   date: "Week 10: Oct 26"
   title: "Game Physics"
