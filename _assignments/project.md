@@ -32,6 +32,7 @@ You can find all document templates needed for the project here: https://drive.g
 
 ## Discovery (10% of project grade)
 **Due date: 11:59 PM November 3rd**
+
 Discovery is the phase of your project where your team decides what game you are making and what needs to be accomplished to do so.
 
 You are tasked with turning in three documents: A short description/summary of your project, a high level vision canvas, and a technical design document. All of these should be in the given folder. Submitions should be in the form of PDFs.
@@ -58,6 +59,7 @@ Meetings will be on:
 
 ## Alpha (30% of project grade)
 **Due date: 11:59 PM December 1**
+
 The alpha is a demo of the work you have done so far. It should be a version of your game with at least the core gameplay completed and playable.
 
 The deliverables for alpha is the code for your project and a video walking us through your core gameplay and any other features/content you have completed so far. You should also submit an updated version of your discovery documents with any changes you might have made during developement.
