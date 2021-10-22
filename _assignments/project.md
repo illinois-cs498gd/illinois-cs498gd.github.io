@@ -23,7 +23,7 @@ rubric:
     points: 55
     description: A version of your game with at least all the high priority features done and in a fully playable state.
 ---
-![Boss](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/dh2.PNG){:width="800px"}
+![Boss](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/dh2.png){:width="800px"}
 
 # Final Project
 Your task is to as a team create a video game. Your grade for this project is made up of three major deliverables and team meetings with your assigned project mentor every two weeks. The details, dates, and list of documents to be turned in for each are below.
