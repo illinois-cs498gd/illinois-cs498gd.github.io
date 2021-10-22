@@ -28,7 +28,7 @@ rubric:
 # Final Project
 Your task is to as a team create a video game. Your grade for this project is made up of three major deliverables and team meetings with your assigned project mentor every two weeks. The details, dates, and list of documents to be turned in for each are below.
 
-You can find all document templates needed for the project here: https://drive.google.com/drive/folders/1zdpOJlR6vrDkMdjwJ7bNBdzrqyFAfYJ3?usp=sharing
+You can find all document templates needed for the project at the [Course Google Drive folder](https://drive.google.com/drive/folders/1zdpOJlR6vrDkMdjwJ7bNBdzrqyFAfYJ3?usp=sharing)
 
 ## Discovery (10% of project grade)
 **Due date: 11:59 PM November 3rd**
