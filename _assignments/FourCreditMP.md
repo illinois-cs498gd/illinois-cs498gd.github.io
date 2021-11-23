@@ -1,4 +1,3 @@
-```
 ---
 layout: assignment
 title: "4 Credit Assignment"
@@ -49,4 +48,3 @@ On Canvas, please submit a **zipped** folder the following:
 If you do a non-tutorial project, submit those materials in the zipped folder.
 
 **For this assignment ignore the submission instructions in the next section**
-```
