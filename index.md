@@ -50,13 +50,7 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 
 #### 4 Credit Project ####
 
-Students taking the course for 4 credits should select one of the following three options for a 4 credit project:
-
-+ Contribute to the [ILLIXIR project](https://illixr.github.io/), open-source Extended Reality (XR) system and testbed.  
-+ Add a new feauture to the Unreal Engine code base, which is available on [Github](https://www.unrealengine.com/en-US/ue4-on-github).  
-You can find more information about contributing on the [forum](https://forums.unrealengine.com/c/development-discussion/engine-source-github/33). 
-+ Develop a plugin or other application suitable for publication in the [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/store)
-
+Students taking the course for 4 credits should select one of the projects to complete from the [assigment page describing the 4 credit assignment]().
 ## Grades ##
 We will post grades on [Canvas](https://canvas.illinois.edu/){:target="_blank" rel="noopener"}.
 
