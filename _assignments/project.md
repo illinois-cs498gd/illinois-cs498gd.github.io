@@ -55,10 +55,10 @@ Each meeting you will be graded on:
 Meetings will be on:
 - October 25th through October 31st (ungraded, introduction, questions, and discovery help)
 - November 15th through November 19th
-- December 1st through December 5th
+- December 4th through December 8th
 
 ## Alpha (30% of project grade)
-**Due date: 11:59 PM December 1**
+**Due date: 11:59 PM December 3**
 
 The alpha is a demo of the work you have done so far. It should be a version of your game with at least the core gameplay completed and playable. The deliverables for alpha are the code for your project and a video walking us through your core gameplay and any other features/content you have completed so far. You should also submit an updated version of your discovery documents with any changes you might have made during development.
 
