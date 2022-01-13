@@ -18,7 +18,7 @@ This is a team and project-based course on video game design and development usi
 
 We will use CampusWire for answering questions and administering the course.
 Click the header to join/view the forum.<br/> 
-Use the passcode 1577.
+Use the passcode 1577. 
 
 + For any question involving a grade you should select `Post to instructors and TAs`.
 
@@ -37,12 +37,12 @@ Use the passcode 1577.
 
 ## Instructional Content ##
 
-The course will be taught using online lectures along with additional reading materials. There will ba one live online meeting per week that will offer opportunities for extra credit. 
+The course will be taught using online lectures along with additional reading materials. There will be one live online meeting per week.
 
 #### Lectures ####
 
 + Lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs498gd.github.io/schedule).
-+ **You can attend live lectures/discussions at 11am Central Time on Thursdays at this [Zoom link](https://illinois.zoom.us/j/85721476191?pwd=d2dmZURrcGFvdzh0OEhiOWhMZ2phdz09).**
++ **You can attend live lectures/discussions at 11am Central Time on Tuesdays at this [Zoom link]().**
 + These lectures will be recorded and available on the course schedule.
 
 #### Development Resources ####

@@ -2,7 +2,7 @@
 layout: assignment
 title: "4 Credit Assignment"
 index: 10
-due: "Dec 17, 2021 @ 11:59 PM"
+due: "May 4, 2022 @ 11:59 PM"
 material: ~
 points: 10
 rubric:
@@ -22,7 +22,7 @@ rubric:
     name: Quality of Presentation
     points: 2
     description: Tutorial should have decent quality audio and be easy to follow.  
---- 
+​--- 
 
 For your 4-credit project you have two options:
 
