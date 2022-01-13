@@ -22,7 +22,7 @@ rubric:
     name: Quality of Presentation
     points: 2
     description: Tutorial should have decent quality audio and be easy to follow.  
-​--- 
+--- 
 
 For your 4-credit project you have two options:
 

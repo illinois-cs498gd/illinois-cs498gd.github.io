@@ -18,7 +18,7 @@ rubric:
     name: Alpha
     points: 30
     description: The alpha should be a version of your game with at least the core gameplay completed and playable.
-    -
+-
     name: Final Submission
     points: 55
     description: A version of your game with at least all the high priority features done and in a fully playable state.
