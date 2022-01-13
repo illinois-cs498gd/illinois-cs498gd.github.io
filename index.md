@@ -10,13 +10,30 @@ permalink: /
 
 ## Overview ##
 
-This is a team and project-based course on video game design and development using Unreal Engine and C++. Topics covered will include geometric modeling, game physics and AI, shader programming, and software and engineering practices within the game industry. The central  focus of the course will be the design and development of a game by teams of 3 to 5 students. The course strongly empahsizes code development and there are no exams.
+This is a team and project-based course on video game design and development using Unreal Engine and C++. Topics covered will include geometric modeling, game physics and AI, shader programming, and software and engineering practices within the game industry. The central  focus of the course will be the design and development of a game by teams of 3 to 5 students. The course strongly emphasizes code development and there are no exams.
 
-#### Prerequisites ####
-We recommend the following courses and skills:
+## Communication ##
 
-- [CS 225](https://courses.engr.illinois.edu/cs225/){:target="_blank" rel="noopener"} - prior general programming experience, preferably using C++
-- [Math 257](https://courses.illinois.edu/schedule/terms/MATH/257){:target="_blank" rel="noopener"} - or Math 415 or equivalent...basic linear algebra, especially 3D transforms
+#### [CampusWire](https://campuswire.com/p/G18C1B62F) ####
+
+We will use CampusWire for answering questions and administering the course.
+Click the header to join/view the forum.<br/> 
+Use the passcode 1577.
+
++ For any question involving a grade you should select `Post to instructors and TAs`.
+
+#### Course Staff ####
+
+* Professor Eric Shaffer, shaffer1@illinois.edu
+* TA
+* TA
+* TA
+* TA
+* CA Nathaniel Cohen
+* CA Ian Rudnick
+* CA Charlie Agriogianis
+* CA Jeffrey Liu
+* CA 
 
 ## Instructional Content ##
 
@@ -47,7 +64,7 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 
 #### 4 Credit Project ####
 
-Students taking the course for 4 credits should select one of the projects to complete from the [assigment page describing the 4 credit assignment](https://illinois-cs498gd.github.io/assignments/FourCreditMP.html).
+Students taking the course for 4 credits should select one of the projects to complete from the [assignment page describing the 4 credit assignment](https://illinois-cs498gd.github.io/assignments/FourCreditMP.html).
 ## Grades ##
 We will post grades on [Canvas](https://canvas.illinois.edu/){:target="_blank" rel="noopener"}.
 
@@ -63,42 +80,25 @@ We weight grades as follows:
 
 The course grade cutoffs can be expected to be:
 
-|Percentage lower bound | Grade |  
-| ----- | ------ | 
-| 98%| A+ |
-| 93% | A |  
-| 90% | A- |  
-| 87% | B+ |  
-| 83% | B |  
-| 80% | B- |  
-| 77% | C+ |  
-| 73% | C |  
-| 70% | C- | 
-| 67% | D+ |  
-| 63% | D |  
-| 60% | D- |  
+|Percentage lower bound | Grade |
+| ----- | ------ |
+| 99% | A+ |
+| 93% | A |
+| 90% | A- |
+| 87% | B+ |
+| 83% | B |
+| 80% | B- |
+| 77% | C+ |
+| 73% | C |
+| 70% | C- |
+| 67% | D+ |
+| 63% | D |
+| 60% | D- |
 | 0%  | F  |
 
 
 
-## Communication ##
-
-#### [CampusWire](https://campuswire.com/p/G18C1B62F) ####
-We will use CampusWire for answering questions and administering the course.
-Click the header to join/view the forum.<br/> 
-Use the passcode 1577.
-
-+ For any question involving a grade you should select `Post to instructors and TAs`.
-
-#### Course Staff ####
-
-* Professor Eric Shaffer, shaffer1@illinois.edu
-* CA Nathaniel Cohen
-* CA Ian Rudnick
-* CA Charlie Agriogianis
-* CA Jeffrey Liu
-
-#### Mental Health ####
+## Mental Health ##
 Diminished mental health, including significant stress, mood changes, excessive worry, substance/alcohol abuse, or problems with eating and/or sleeping can interfere with optimal academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings at no additional cost. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below. Getting help is a smart and courageous thing to do -- for yourself and for those who care about you.
 
 Counseling Center: 217-333-3704, 610 East John Street Champaign, IL 61820
