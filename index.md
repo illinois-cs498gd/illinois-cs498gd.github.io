@@ -14,26 +14,26 @@ This is a team and project-based course on video game design and development usi
 
 ## Communication ##
 
-#### [CampusWire](https://campuswire.com/p/G18C1B62F) ####
+#### [CampusWire](https://campuswire.com/p/GC1EB3DC9) ####
 
 We will use CampusWire for answering questions and administering the course.
 Click the header to join/view the forum.<br/> 
-Use the passcode 1577. 
+Use the passcode 2549. 
 
 + For any question involving a grade you should select `Post to instructors and TAs`.
 
 #### Course Staff ####
 
 * Professor Eric Shaffer, shaffer1@illinois.edu
-* TA
-* TA
-* TA
-* TA
+* TA Jason Situ
+* TA Pranav Asthana
+* TA Billy Li 
+* TA Yi-Hsiang Kao
 * CA Nathaniel Cohen
 * CA Ian Rudnick
 * CA Charlie Agriogianis
 * CA Jeffrey Liu
-* CA 
+* CA Heather McNaughton
 
 ## Instructional Content ##
 
