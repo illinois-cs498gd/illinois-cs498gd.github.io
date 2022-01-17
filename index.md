@@ -49,7 +49,7 @@ The course will be taught using online lectures along with additional reading ma
 #### Development Resources ####
 
 You will need to have access to a computer capable of running Unreal Engine. <br/>
-You can test your computer by downloading and installing Unreal vesion 4.27 from https://www.unrealengine.com/en-US/download <br/>
+You can test your computer by downloading and installing Unreal vesion 4.27 from [https://www.unrealengine.com/en-US/download](https://www.unrealengine.com/en-US/download) <br/>
 You should choose the publishing license. 
 
 Test your installation by working through the [Your First Hour with Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4) tutorial.
@@ -64,9 +64,10 @@ Assigned work will include 8 quizzes, 2 programming assignments, and a final pro
 
 #### Bi-Weekly Quizes ####
 There will be 8 short quizzes on PrairieLearn. These quizzes will be based on the lecture material. 
-+ The quizzes can be taken asynchronously...outside of the class.
-+ There is no time limit but each quiz has to be taken in one sitting...you should budget 45 minutes to be safe but most of the quizzes will not take that long.
-+ Each question allows multiple attempts...often at full credit but sometimes reduced...the question tells you how many attempts you have left.
++ The quizzes can be taken asynchronously...outside class time.
++ There is no time limit but each quiz has to be taken in one sitting
++ You should budget 45 minutes to take a quiz.
++ Each question allows multiple attempts at reduced credit.
 + The quizzes are open web. 
 + Each quiz will be available for 1 week at full credit. 
 + After that week, the quiz can be taken for half credit.  
