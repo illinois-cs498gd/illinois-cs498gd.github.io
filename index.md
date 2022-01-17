@@ -43,20 +43,18 @@ The course will be taught using online lectures along with additional reading ma
 
 + Lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs498gd.github.io/schedule).
 + **You can attend live lectures/discussions at 11am Central Time on Tuesdays at this [Zoom link](https://illinois.zoom.us/j/89644390066?pwd=VUxXemhJODROZ1ZTZWJWLzFPSCtWQT09).**
-+ **For the first week of class, we will NOT be live on Tuesday...instead we will meet Thursday Jan. 20 at 11am CT at the above link.**
++ **For the first week of class, we will NOT be live on Tuesday...<br/>...instead we will meet Thursday Jan. 20 at 11am CT at the above link.**
 + These lectures will be recorded and available on the course schedule.
 
 #### Development Resources ####
 
 You will need to have access to a computer capable of running Unreal Engine. <br/>
-You can test your computer by downloading and installing Unreal vesion 4.27 from [https://www.unrealengine.com/en-US/download](https://www.unrealengine.com/en-US/download) <br/>
+You can test your computer by downloading and installing Unreal vesion 4.27 from [here](https://www.unrealengine.com/en-US/download) <br/>
 You should choose the publishing license. 
 
 Test your installation by working through the [Your First Hour with Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4) tutorial.
 
-If your computer is not capable of running Unreal, you can use the Siebel Center 4107 Lab either in person or remotely for development.<br/>
-The lab will be open after the second week of class and everyone taking the course will have keycard access to the lab.<br/>
-You can find instuctions for accessing the machines remotely on the [Resources page](https://illinois-cs498gd.github.io/resources).  
+If your computer is not capable of running Unreal, you can use the Siebel Center 4107 Lab either in person or remotely for development. The lab will be open after the second week of class and everyone taking the course will have keycard access to the lab. You can find instuctions for accessing the machines remotely on the [Resources page](https://illinois-cs498gd.github.io/resources).  
 
 ## Assessments ##
 
