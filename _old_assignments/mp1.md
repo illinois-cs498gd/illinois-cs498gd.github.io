@@ -1,120 +1,180 @@
 ---
 layout: assignment
-title: "Bare Bones Ray Tracing"
+title: "Your First Game: An Infinite Matrix"
 index: 10
-due: "Feb. 18, 2021 @ 11:59 PM"
+due: "Feb. 9, 2022 @ 11:59 PM"
 material: ~
-points: 50
-rubric:  
-  -
-    name: Commented code
-    points: 5
-    description: 
-  - 
-    name: Ray-Plane Intersection
-    points: 5
-    description: Be able to render a plane.
-  - 
-    name: Ray-Sphere Intersection
-    points: 5
-    description: Be able to render a sphere
-  -
-    name: Ray-Triangle Intersection
-    points: 5
-    description: Be able to render a triangle
-  - 
-    name: Movable Camera
-    points: 5
-    description: Be able to generate a render from an arbitrary viewpoint and direction	
-  -
-    name: Orthographic and Perspective Projection
-    points: 5
-    description: Be able to render using either type of projection
-  -
-    name: Multi-Jittered Sampling
-    points: 10
-    description: Be able to render an image using multi-jittered sampling for anti-aliasing
-  -
-    name: Simple Diffuse Shading
-    points: 5
-    description: Use the diffuse shading term from the Phong reflection model 
+points: 40
+rubric:
 -
-    name: Hard Shadows
+    name: Complete the tutorial
     points: 5
-    description: Be able to produce hard-edged sahodws as shown in the image on this page.
-    
+    description: Have working code that matches the functionality described in the tutorial
+- 
+    name: Health system
+    points: 5
+    description: Display and track a player health metric
+- 
+    name: Score system
+    points: 5
+    description: Display and track a game score
+-
+    name: Health packs
+    points: 5
+    description: Spawn health packs that can be picked up 
+- 
+    name: Speed increase
+    points: 5
+    description: Gently increase player speed over time
+-
+    name: Enemies
+    points: 5
+    description: Spawn enemies...the visual representation is up to you.
+-
+    name: Player projectile attacks
+    points: 5
+    description: Add a player controllable projectile weapon
+-
+    name: Creative addition
+    points: 5
+    description: Modify the game aesthetic in some way 
+
 ---
+![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/matrix.PNG){:width="800px"}
 
-![Tracing](/img/MP1.jpg){:width="500px"}   
-For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
+## Specification
+For your first programming assignment, in honor of Keanu Reeves turning 57 years old and the upcoming release of Matrix 4 Resurrections you will implement a simple Matrix-themed game.  The goal here isn't to build a AAA game...it's probably not going to look amazing and that's fine. The goal is to learn to build an Unreal project from nothing and make an actual working game that expresses some creativity. And in any case, your game will likely be more entertaining than the Matrix sequel movies. 
 
-1. Ray-object intersection support for:
-   1. Planes <br/> Reference: [Basic Ray Tracing Jan 28.](https://illinois-cs419.github.io/schedule)
+![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/matrix-4-5.png){:width="800px"}
 
-   2. Spheres <br/> Reference: [Ray-Sphere Intesection Feb.2](https://illinois-cs419.github.io/schedule) <br/>  [Reference: RTiOW Section 5](https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere)
-   
-   3. Triangles <br/> [Reference: Ray-Triangle Intersection Feb. 9](https://illinois-cs419.github.io/schedule)
- 
-2. Orthographic projection and perspective projection <br/> [Reference: Basic Ray Tracing Jan. 28](https://illinois-cs419.github.io/schedule)
- 
-3. A movable camera <br/> [Reference: Cameras Feb. 9](https://illinois-cs419.github.io/schedule)
- 
-4. Multi-jittered sampling for the primary rays <br/> [Reference: Sampling Feb. 4](https://illinois-cs419.github.io/schedule) 
- 
-5. Simple shading using the Blinn-Phong or Phong reflectance model. <br/>
-Just do diffuse (Lambertain) shading without any specular component. <br/>
-Use a point light and do not recurse...just shade the hit using a surface normal and the direction to the light. <br/>
-[Reference: Diffuse Shaddng Feb. 9](https://illinois-cs419.github.io/schedule)
+Your task is to do the following:
 
-6. Hard shadows <br/> [Reference: Hard Shadows Feb. 11](https://illinois-cs419.github.io/schedule)   
+### 1. Complete the Tutorial:
+Complete this [tutorial on making a simple game by Ray Wenderlich](https://www.raywenderlich.com/454-how-to-create-a-simple-game-in-unreal-engine-4). Do not skip the tutorial and just grab the finished code; complete the tutorial. It teaches almost all of what you need to know to implement the additional features below (features that are not included in the finished tutorial code posted at the site).
 
-6. Output images in one of PPM or PNG format. <br/> [Reference: RTiOW Section 2](https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage)
+### 2. Add a health system for the player. Your health system should:
+- Be displayed as a bar or number on the UI
+- Decrease their health value upon collision with an obstacle
+- Stop the player only when their health value this 0
+- Have a max health value
+- Correctly reset to its max health value when the game is restarted 
 
-### Technical Details
+### 3. Add a score. Your score should:
+- Be displayed as a number on the UI
+- Increment only when the player successfully goes through a hole in an obstacle
+- Reset to 0 when the game is restarted
 
-+ You can use any programming /platform you wish
+### 4. Add health packs. Your health packs should:
+- Be a collidable object
+- Be destroyed upon collision with the player
+- Be destroyed shortly after if the player goes past them
+- Increase the health value upon collision with the player, up to a max health value
+- Appear in tunnels at a randomized rate, but never more than once per tunnel
+- Have a semi randomized location in the tunnel that does not collide with other objects
 
-+ You can use any math library/package you wish to support the vector/matrix operations you need to perform
+### 5. Add player projectile attacks. Attacks should:
+- Create a projectile on left mouse click that shoots forward down the tunnel faster than the player
+- The projectile is destroyed upon collision with anything and after a short duration
+- Have a short cooldown on shooting projectiles
+- The projectile is created at the player/mouse position
 
-+ The documentation standard is simple each function or scoped block of code should have a comment describing the following:
-  +The purpose of the function
-  + The inputs to the function
-  + The return value(s) if any
+### 6. Add enemies. Enemies should:
+- Be a collidable object
+- Be destroyed on collision with projectiles or the player
+- Increase the score on destruction by a projectile
+- Decrease the health value on collision with the player
+- Be destroyed shortly after if the player goes past them
+- The visual representation of the enemy is up to you...it can be simple.
 
-+ **If you use code from other sources, you must document the use of that code in a text file named README.md in your handin**
+### 7. Increase the player speed over time. The player speed increase should:
+- Get faster over time, either directly based on time, or based on the player score
+- Increase at a rate that is noticeable but does not ramp up the difficulty too fast
 
-### FAQ
-Q. Should my images look like the one on this page?<br/>
-A. Not exactly! You can ignore the cylinder and the box...you won't render those.<br/>
-   And you can be a little creative and any scene you want as long as it denomstrates the elements shown here.<br/> 
-   Also, you should be aware the scene on this page is in perspective, which is why there is a horizon from the plane. 
-   
-Q. Can use code X that I found on the web?<br/>
-A. Probably! In general, code to do basic numerical work (e.g. cross-product or even barycentric coordinates for a point) can be from a library.
-   You can ask on CampusWire about specific pieces of code. <br/>
-   Whether your use a library or copy source code from some approved source, you must cite the source in a text file named README.md in your handin.
+### 8. Add one creative modification that is unique to your game. Some ideas:
+- Health bar decreases along a gradient of colors
+- Add screen shake on collision with barriers and enemies
+- Color of the walls change depending on player health
 
-Q. In what order should I implement these features?<br/>
-A.  I would implement things in the following order 
-    1. Image output, orthographic and persepctive projection, ray-plane intresection (with flat shading)
-    2. Spheres, diffuse shading, movable camera
-    3. Triangles, multi-jittered sampling, shadows
-    Test as you go...save your test cases for re-use if possible.
+## Advice
 
-### Hand-in
+**Start working now...try to complete the tutorial in a couple of days and then work on adding a new mod every two days.** Do not be afraid to ask for help...on [CampusWire](https://campuswire.com/c/G18C1B62F/feed) or in [office hours](https://illinois-cs498gd.github.io/officehours.html). You can help out other students - answering questions on how to do things on CampusWire is very much encouraged. Learning how to implement a mechanic online or from someone on CampusWire is not plagiarism.
 
-You will hand in your code and 5 images:
+**Also, do not be afraid to change the initial game defaults in order to make the game more playable.** You can have the initial speed be slower, have the tunnels be longer or bigger...change things so that it is a game you think is a reasonably good experience. 
 
-+ One orthographic rendering of a scene with sphere, a plane, and triangles at a resolution of at least 500x500. 
+**Keep your code in a repo...and use .gitignore and LFS support to handle large files.** You can find a reasonably good [tutorial here](https://odederell3d.blog/2020/04/22/unreal-engine-4-github-first-steps/) . You can use the commercial [github.com]() or the [internal UIUC github](https://github-dev.cs.illinois.edu/).  
 
-+ One perspective rendering of the same scene at a resolution of at least 500x500. 
+## Technical Details
+### Adding a Healthbar
 
-+ An additional perspective rendering of the same scene from a different viewpoint at a resolution of at least 500x500. 
+The steps to adding health bar would be:
+1. Create an int/float "Health" variable for the player
+2. Create a HUD widget blueprint to display the health
+3. Update the BP_Tunnel logic to update the player health on collision
+4. Update the game logic to only stop when the health reaches 0
+5. Reset the health bar when the game is reset
 
-+ Two images illustrating the effects of using jittering. <br/>
-  The first image should use a single ray for each pixel, while the second should use multi-jittering. 
-  Try to set up a scene so that the difference is apparent, you can reduce the resolution to something small. 
+#### Hints
 
-Hand-in will be done on Compass 
+There is a video tutorial called "Adding Health and Debug Damage" and "Widget Blueprint Introduction" in the "Welcome to Game Development" course by Unreal Engine, which helps introduce basics of adding a health bar.
 
+The initial project file uses the WallMesh's "OnComponentHit" to process a collision. However, this may not be desirable for this implementation of health because "OnComponentHit" will be continuously called when the player collides with the wall. Instead, it may be better to use "OnComponentBeginOverlap" and change the WallMesh's collision preset to "OverlapAllDynamic", so that the player passes through the wall, and the collision logic is only called once.
+
+The Blueprint graph may also be a lot cleaner if a "ProcessHit" function is made to update the health bar of the BP_Player (otherwise, you need a lot of "BP_Player" reference connections). The "isDead" boolean can optionally be replaced with a conditional depending on whether or not the health equals 0.
+
+
+### Adding a Score
+
+The steps to adding a score are relatively similar to a health bar:
+1. Create an int "Score" variable for the player
+2. Add a text widget to the HUD to display the score
+3. Update the tunnel logic to increment the score properly
+4. Reset the score when the game is reset
+
+#### Hints
+
+One tricky thing about updating the score is when to figure out when the score should actually updated (i.e. the score should only be updated when the player successfully passes through the hole). There are probably multiple ways to do this, but this is how I did it:
+- If the player hits the WallMesh, the score is decremented
+- When the player passes through the TriggerZone, the score gets incremented
+- The "Score" text widget in the HUD is only updated after the player passes the TriggerZone
+
+This way, when a player collides through the wall and then passes the TriggerZone, the score is simultaneously incremented and decremented, so the score display does not change at all.
+
+### Adding Healthpacks
+
+The steps to adding health packs are:
+1. Create a static mesh blueprint to represent the health pack
+2. Add appropriate logic to update the player's health when obtained
+3. Add logic to create the health pack during tunnel creation
+
+#### Hints
+
+In this implementation, the logic for handling a health pack is very similar to that of handling a collision. If the player passes through the health pack, the health pack has an "OnComponentBeginOverlap" function that will update the player's health and health bar. The end of the function also destroys the actor.
+
+Note that for whatever static mesh is used for the health pack, there must be a collision mesh. Otherwise, the collision will not be detected when the player passes through the health pack. Additionally, the health pack should probably be deleted once the player has passed by it (either by setting a life span, or a separate box collision).
+
+In "BP_TunnelSpawner", a random number generator can be used to determine whether or not a health pack should be spawned. For example, for a 1/10 chance of a health pack in a tunnel, a range of 0-9 can be used, where a health pack is only spawned when the randomly generated number equals a certain value.
+
+### Adding an Enemy
+
+In this implementation, adding enemies included:
+1. Updating the input actions for a "Shoot" action
+2. Creating a blueprint for a projectile
+3. Adding a function for the player to shoot a projectile forward
+4. Creating a blueprint for an enemy
+5. Adding logic for the collision between the projectile and the enemy
+6. Adding logic for the interaction between the enemy and the player
+
+#### Hints
+
+Similar to the healthpack, the static mesh used for the enemy must have a collision mesh. Otherwise, the collision between the projectile and the enemy will not be detected. Furthermore, a separate box collision may be necessary to detect whether or not the player has passed through the enemy.
+
+To update the score when the projectile hits the enemy, one possible method is for the projectile to carry a reference to the player who shot the projectile. Then, the player's score is updated upon collision.
+
+### Possible Visual Modifications
+
+Some potential ideas for some visual modifications could be:
+- Health bar decreases along a gradient of colors
+- Screen flashes red when the player collides with a wall
+- Some indicator that the health pack was obtained
+- Color of the walls updates according to the player's health
 
