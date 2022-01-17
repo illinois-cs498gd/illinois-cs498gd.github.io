@@ -47,14 +47,24 @@ The course will be taught using online lectures along with additional reading ma
 
 #### Development Resources ####
 
-You will need to have access to a computer capable of running Unreal Engine. You can test  
+You will need to have access to a computer capable of running Unreal Engine. You can test your computer by downloading and installing Unreal vesion 4.27 from https://www.unrealengine.com/en-US/download You should choose the publishing license. 
+
+Test your installation by working through the [Your First Hour with Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4) tutorial.
+
+If your computer is not capable of running Unreal, you can use the Siebel Center 4107 Lab either in person or remotely for development. The lab will be open after the second week of class and everyone taking the course will have keycard access to the lab.  
 
 ## Assessments ##
 
 Assigned work will include 8 quizzes, 2 programming assignments, and a final project.
 
 #### Bi-Weekly Quizes ####
-There will be 8 short quizzes on PrairieLearn. These quizzes will be based on the lecture material.
+There will be 8 short quizzes on PrairieLearn. These quizzes will be based on the lecture material. 
++ The quizzes can be taken asynchronously...outside of the class.
++ There is no time limit but each quiz has to be taken in one sitting...you should budget 45 minutes to be safe but most of the quizzes will not take that long.
++ Each question allows multiple attempts...often at full credit but sometimes reduced...the question tells you how many attempts you have left.
++ The quizzes are open web. 
++ Each quiz will be available for 1 week at full credit. 
++ After that week, the quiz can be taken for half credit.  
 
 #### Programming Assignments ####
 There will be 2 programming assignments that will serve as an introduction to Unreal.
@@ -64,7 +74,8 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 
 #### 4 Credit Project ####
 
-Students taking the course for 4 credits should select one of the projects to complete from the [assignment page describing the 4 credit assignment](https://illinois-cs498gd.github.io/assignments/FourCreditMP.html).
+Students taking the course for 4 credits should select one of the projects to complete from the **not yet available** [assignment page describing the 4 credit assignment](https://illinois-cs498gd.github.io/assignments/FourCreditMP.html). The level of effort will be about the same as one of the programming assignments.
+
 ## Grades ##
 We will post grades on [Canvas](https://canvas.illinois.edu/){:target="_blank" rel="noopener"}.
 
