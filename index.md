@@ -42,8 +42,8 @@ The course will be taught using online lectures along with additional reading ma
 #### Lectures ####
 
 + Lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs498gd.github.io/schedule).
-+ **You can attend live lectures/discussions at 11am Central Time on Tuesdays at this [Zoom link](https://illinois.zoom.us/j/89644390066?pwd=VUxXemhJODROZ1ZTZWJWLzFPSCtWQT09).**
-+ **For the first week of class, we will NOT be live on Tuesday...<br/>...instead we will meet Thursday Jan. 20 at 11am CT at the above link.**
++ **You can attend live lectures/discussions at 12:30pm Central Time on Tuesdays at this [Zoom link](https://illinois.zoom.us/j/89644390066?pwd=VUxXemhJODROZ1ZTZWJWLzFPSCtWQT09).**
++ **For the first week of class, we will NOT be live on Tuesday...<br/>...instead we will meet Thursday Jan. 20 at 12:30pm CT at the above link.**
 + These lectures will be recorded and available on the course schedule.
 
 #### Development Resources ####
