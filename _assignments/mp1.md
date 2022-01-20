@@ -50,7 +50,7 @@ For your first programming assignment, in honor of Keanu Reeves turning 57 years
 Your task is to do the following:
 
 ### 1. Complete the Tutorial:
-Complete this [tutorial on making a simple game by Ray Wenderlich](https://www.raywenderlich.com/454-how-to-create-a-simple-game-in-unreal-engine-4). Do not skip the tutorial and just grab the finished code; complete the tutorial. It teaches almost all of what you need to know to implement the additional features below (features that are not included in the finished tutorial code posted at the site).
+Complete this [tutorial on making a simple game by Ray Wenderlich](https://www.raywenderlich.com/454-how-to-create-a-simple-game-in-unreal-engine-4). Do not skip the tutorial and just grab the finished code; complete the tutorial. It teaches almost all of what you need to know to implement the additional features below (features that are not included in the finished tutorial code posted at the site). This assignment is individual and each student should submit their own work.
 
 ### 2. Add a health system for the player. Your health system should:
 - Be displayed as a bar or number on the UI
@@ -69,14 +69,15 @@ Complete this [tutorial on making a simple game by Ray Wenderlich](https://www.r
 - Be a collidable object
 - Be destroyed upon collision with the player
 - Be destroyed shortly after if the player goes past them
+  - The implementation for this is up to you. This can be based on a fixed time interval, after the player passes the current tunnel, etc.
 - Increase the health value upon collision with the player, up to a max health value
 - Appear in tunnels at a randomized rate, but never more than once per tunnel
+  - Make sure that the health packs are attainable, i.e. not at the very start or beginning of the tunnel, or clipped through the edges.
 - Have a semi randomized location in the tunnel that does not collide with other objects
 
 ### 5. Add player projectile attacks. Attacks should:
 - Create a projectile on left mouse click that shoots forward down the tunnel faster than the player
 - The projectile is destroyed upon collision with anything and after a short duration
-- Have a short cooldown on shooting projectiles
 - The projectile is created at the player/mouse position
 
 ### 6. Add enemies. Enemies should:
@@ -85,10 +86,15 @@ Complete this [tutorial on making a simple game by Ray Wenderlich](https://www.r
 - Increase the score on destruction by a projectile
 - Decrease the health value on collision with the player
 - Be destroyed shortly after if the player goes past them
+  - Similar to the health pack, this can be implemented in a variety of ways.
 - The visual representation of the enemy is up to you...it can be simple.
+  - Please make the enemy visually distinguishable from the health pack! This includes different colors and shapes.
+- However many enemies spawned in a tunnel can be up to you, as long as it's reasonable for the player to pass them.
+  - For this assignment, it's okay if the enemies spawn on top of the health packs (although issues like these should be addressed in the final project)
 
 ### 7. Increase the player speed over time. The player speed increase should:
-- Get faster over time, either directly based on time, or based on the player score
+- Get faster over time, either directly based on time, the player score, etc
+  - It's up to you if you want the speed to increase forever, or cap at some threshold.
 - Increase at a rate that is noticeable but does not ramp up the difficulty too fast
 
 ### 8. Add one creative modification that is unique to your game. Some ideas:
@@ -102,11 +108,14 @@ Complete this [tutorial on making a simple game by Ray Wenderlich](https://www.r
 
 **Start working now...try to complete the tutorial in a couple of days and then work on adding a new mod every two days.** Do not be afraid to ask for help...on [CampusWire](https://campuswire.com/c/G18C1B62F/feed) or in [office hours](https://illinois-cs498gd.github.io/officehours.html). You can help out other students - answering questions on how to do things on CampusWire is very much encouraged. Learning how to implement a mechanic online or from someone on CampusWire is not plagiarism.
 
-**Also, do not be afraid to change the initial game defaults in order to make the game more playable.** You can have the initial speed be slower, have the tunnels be longer or bigger...change things so that it is a game you think is a reasonably good experience.
+**Also, do not be afraid to change the initial game defaults in order to make the game more playable.** You can have the initial speed be slower, have the tunnels be longer or bigger...change things so that it is a game you think is a reasonably good experience. You will not be penalized for any intentional modifications that are meant to make the game more fun. If you would like to make a modification that explicitly and intentionally contradicts the spec, feel free to ask on CampusWire or explain in your submission.
 
 **Keep your code in a repo...and use .gitignore and LFS support to handle large files.** You can find a reasonably good [tutorial here](https://odederell3d.blog/2020/04/22/unreal-engine-4-github-first-steps/) . You can use the commercial [github.com]() or the [internal UIUC github](https://github-dev.cs.illinois.edu/).  
 
 ## Technical Details
+
+The following details are simply suggestions to get started to implement the specification. It's totally fine to introduce an alternative implementation, so long as the features still match the spec.
+
 ### Adding a Healthbar
 
 The steps to adding health bar would be:
@@ -172,6 +181,8 @@ In this implementation, adding enemies included:
 Similar to the healthpack, the static mesh used for the enemy must have a collision mesh. Otherwise, the collision between the projectile and the enemy will not be detected. Furthermore, a separate box collision may be necessary to detect whether or not the player has passed through the enemy.
 
 To update the score when the projectile hits the enemy, one possible method is for the projectile to carry a reference to the player who shot the projectile. Then, the player's score is updated upon collision.
+
+Since the player speed is expected to get faster and faster as the game progresses, make sure to scale the projectile speed based on the player speed, so that the player never out-speeds the projectile.
 
 ### Possible Visual Modifications
 
