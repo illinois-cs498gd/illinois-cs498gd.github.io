@@ -28,11 +28,11 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
 -
   date: "Week 3: Feb 3"
   materials: ""
-  title: "Unreal Engine Basics"
+  title: "Basic Geometric Modeling"
 -  
   date: "Week 4: Feb 8"
   materials: ""
-  title: "Unreal Engine Basics"
+  title: "Basic Geometric Modeling"
 -  
   date: "Week 4: Feb 10"
   materials: ""
@@ -40,11 +40,11 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
 -
   date: "Week 5: Feb 15"
   materials: ""
-  title: "Basic Geometric Modeling"
+  title: "Game Design"
 -
   date: "Week 5: Feb 17"
   materials: ""
-  title: "Basic Geometric Modeling"
+  title: "Game Design"
 - 
   date: "Week 6: Feb 22"
   materials: ""
@@ -56,11 +56,11 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
 - 
   date: "Week 7: Mar 1"
   materials: ""
-  title: "Game Design" 
+  title: "Graphics: Material Modeling" 
 -  
   date: "Week 7: Mar 3"
-  materials: ""
-  title: "Game Design"
+  materials: "Graphics: Material Modeling"
+  title: ""
 -  
   date: "Week 8: Mar 8"
   materials: ""
