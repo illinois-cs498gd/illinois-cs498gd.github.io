@@ -23,19 +23,22 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "An Example Game"
 -
   date: "Week 3: Feb 1"
-  materials: "[Live Zoom Link](https://illinois.zoom.us/j/89644390066?pwd=VUxXemhJODROZ1ZTZWJWLzFPSCtWQT09)"
+  materials: "[Live Zoom Link](https://illinois.zoom.us/j/89644390066?pwd=VUxXemhJODROZ1ZTZWJWLzFPSCtWQT09)<br/><br/>
+  
+  Polygonal Meshes [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-Mesh.pdf)"
   title: "Unreal Engine Basics"
 -
   date: "Week 3: Feb 3"
   materials: ""
-  title: "Basic Geometric Modeling"
+  title: "Unreal Engine Basics"
 -  
   date: "Week 4: Feb 8"
-  materials: ""
+  materials: "LOD Generation and Mesh Simplification [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-SimplificationAndLOD.pdf)"
   title: "Basic Geometric Modeling"
 -  
   date: "Week 4: Feb 10"
-  materials: ""
+  materials: "Bezier Curves [Video](https://classtranscribe.illinois.edu/video?id=0a1abdf3-e07f-4eb1-94f8-57fb05aefce8&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-BezCurves.pdf) <br/>
+               Bezier Patches [Video](https://classtranscribe.illinois.edu/video?id=1efc1c4b-1f5a-4934-a31e-55c9edaf9686&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-BezPatch.pdf)"
   title: "Basic Geometric Modeling"
 -
   date: "Week 5: Feb 15"
