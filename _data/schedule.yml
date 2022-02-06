@@ -46,15 +46,21 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Basic Geometric Modeling"
 -
   date: "Week 5: Feb 15"
-  materials: ""
-  title: "Game Design"
+  materials: "**[Quiz 2 on Prairielearn due 2/22]()** <br/><br/>
+              Ray Tracing Basics [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/1-Overview.pdf)<br/>
+              How to get Started with Real Time Tracing in Unreal [Video](https://www.youtube.com/watch?v=Bk5HOtRwgd8) <br/>
+              Unreal Engine 4 Ray Tracing Documentation [Link](https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/RayTracing/) <br/>
+              Unreal Reflections Demo [Video](https://youtu.be/J3ue35ago3Y) <br/>
+              Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)"
+  title: "Graphics: Basics "
 -
   date: "Week 5: Feb 17"
-  materials: ""
-  title: "Game Design"
+  materials: "Rendering Concepts [Video](https://classtranscribe.illinois.edu/video?id=1f00f586-fa67-4ab4-9a49-6255397f3838&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Rendering.pdf) <br/>
+              Rasterization [Video](https://classtranscribe.illinois.edu/video?id=bbc3d76b-231a-4a9c-8bbe-f4da6c91c0de&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Rasterization.pdf)"
+  title: "Graphics"
 - 
   date: "Week 6: Feb 22"
-  materials: ""
+  materials: "Deferred Shading [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-Deferred.pdf)"
   title: "Graphics: Basics"
 -
   date: "Week 6: Feb 24"
