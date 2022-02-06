@@ -52,16 +52,16 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
               Unreal Engine 4 Ray Tracing Documentation [Link](https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/RayTracing/) <br/>
               Unreal Reflections Demo [Video](https://youtu.be/J3ue35ago3Y) <br/>
               Eric Haines Ray Tracing Intro [Link](https://developer.nvidia.com/blog/ray-tracing-essentials-part-1-basics-of-ray-tracing/)"
-  title: "Graphics: Basics "
+  title: "Graphics: Ray Tracing "
 -
   date: "Week 5: Feb 17"
   materials: "Rendering Concepts [Video](https://classtranscribe.illinois.edu/video?id=1f00f586-fa67-4ab4-9a49-6255397f3838&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Rendering.pdf) <br/>
               Rasterization [Video](https://classtranscribe.illinois.edu/video?id=bbc3d76b-231a-4a9c-8bbe-f4da6c91c0de&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/Rasterization.pdf)"
-  title: "Graphics"
+  title: "Graphics: Rasterization"
 - 
   date: "Week 6: Feb 22"
   materials: "Deferred Shading [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-Deferred.pdf)"
-  title: "Graphics: Basics"
+  title: "Game Engine Graphics"
 -
   date: "Week 6: Feb 24"
   materials: ""
@@ -72,16 +72,16 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Graphics: Material Modeling" 
 -  
   date: "Week 7: Mar 3"
-  materials: "Graphics: Material Modeling"
-  title: ""
+  materials: ""
+  title: "Graphics: GPU Ray Tracing"
 -  
   date: "Week 8: Mar 8"
   materials: ""
-  title: "Graphics: Ray-Tracing"
+  title: "Game Design"
 - 
   date: "Week 8: Mar 10"
   materials: ""
-  title: "Graphics: Ray-Tracing"
+  title: "Game Design"
 -  
   date: "Week 9: Mar 15"
   materials: ""
