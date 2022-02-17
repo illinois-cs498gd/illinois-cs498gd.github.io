@@ -43,14 +43,14 @@ rubric:
 # MP 2: Level Design
 Your second MP is all about level design and all the important factors that go in to it. In this MP we will touch on player abilities, level layouts, and enemy AI.
 
-To start you off we will need you to get familiar with the basics of how the level editor works in Unreal. We would recommend you complete the tutorial found here in order to do so:<br/>
+To start you off we will need you to get familiar with the basics of how the level editor works in Unreal. We would recommend you complete the tutorial found here in order to do so:<br/><br/>
 [Tutorial Link](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LDQuickStart/0)
 
 Once you have done that you can continue on to the main assignment.
 
 Your objective with this assignment is to design and create your own 3D platformer level. You will be provided with a player character and you are going to place assets, add mechanics, and create enemies for that character to interact with.
 
-The basic player controller along with a large number of assets you may want to use are found here: <br/>
+The basic player controller along with a large number of assets you may want to use are found here: <br/><br/>
 [Assets Link](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit-games)<br/>
 It will say it only is updated for 4.26, just open it with 4.27 and it will work fine.
 
@@ -59,11 +59,11 @@ The character controller you will be using is under `BP_HourOfCode_Character`.
 ## Part 1: Update Your Character
 The first thing you need to do is update your character. You need to do this in two ways.
 
-### Add a health system.
+### **Add a Health System**
 This should be very similar to the system used in the first MP. It should have a bar displayed somewhere on the screen, and a game over screen should be displayed if it reaches 0. You should also make an item that can be placed in the world and picked up to restore health. This item should be destroyed on collection. There are several given assets that could work well for this but you can use whatever you want.
 
-### Add a new mechanic to the player character.
-    This can be basically anything you want. An ability to attack, a grapple hook, a roll. It should be similar in complexity to the flight mechanic the character controller already has.
+### **Add a New Mechanic to the Player Character**
+This can be basically anything you want. An ability to attack, a grapple hook, a roll. It should be similar in complexity to the flight mechanic the character controller already has.
 
 ## Part 2: Make Some Enemies
 We need obstacles to fill our level. So lets make some enemies. You will be making 4 distinctly different enemy types.
@@ -74,7 +74,8 @@ All enemies should do the following:
 -	Be destroyed when the players collides with their “head” (the top of whatever model you decide to use)
 -	Reduce the players health on collision with any part that is not the head
 -	Knock the player back and remove player control for a short duration after a health reducing collision
--	
+
+
 ### **Enemy Types**
 
 You will create are the following types pf enemies
