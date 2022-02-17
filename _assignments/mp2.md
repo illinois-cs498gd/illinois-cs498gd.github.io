@@ -39,11 +39,11 @@ rubric:
     points: 10
     description: Submit a document that explains your level design and design decisions
 ---
-
+![Matrix](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/platform.PNG){:width="800px"}
 # MP 2: Level Design
 Your second MP is all about level design and all the important factors that go in to it. In this MP we will touch on player abilities, level layouts, and enemy AI.
 
-To start you off we will need you to get familiar with the basics of how the level editor works in Unreal. We would recommend you complete the tutorial found here in order to do so: https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LDQuickStart/
+To start you off we will need you to get familiar with the basics of how the level editor works in Unreal. We would recommend you complete the tutorial found here in order to do so: [https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LDQuickStart/0(https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LDQuickStart/0)
 
 Once you have done that you can continue on to the main assignment.
 
@@ -51,7 +51,7 @@ Once you have done that you can continue on to the main assignment.
 Your objective with this assignment is to design and create your own 3D platformer level. You will be provided with a player character and you are going to place assets, add mechanics, and create enemies for that character to interact with.
 
 The basic player controller along with a large number of assets you may want to use are found here: 
-https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit-games (it will say it only is updated for 4.26, just open it with 4.27 and it will work fine)
+[https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit-games](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit-games) (it will say it only is updated for 4.26, just open it with 4.27 and it will work fine)
 
 The character controller you will be using is under BP_HourOfCode_Character.
 
@@ -104,11 +104,5 @@ Your level should:
 
 As far as environmental and visual assets, you can use any of the provided, built in, or any other assets in your level creation.
 
-# Submission Instructions
-Hand-in will be done on Canvas. You will be expected to upload the following:
-
-1. A link to a git repo or drive/box folder containing your project code. It should be possible to build your game in Unreal using the submitted code.
-
-2. A short video up to 10 minutes long (can be much shorter) showing your level and demonstrating all the required features. Your video ideally should be a screen capture with brief narration by you pointing out the features as they appear in the game.
-
-3. A short written document, either pdf or docx format, explaining your process of designing you level. It should be at most a page long. It should explain how you went about the design process and how your design had to accommodate the new mechanic and enemy you created. 
+# Additional Submission Instructions
+In addiiton to usual instructions below, you should also submit a short written document, either pdf or docx format, explaining your process for designing your level. It should be at most a page long. It should explain how you went about the design process and how your design had to accommodate the new mechanic and enemy you created. 
