@@ -52,7 +52,7 @@ Your objective with this assignment is to design and create your own 3D platform
 The basic player controller along with a large number of assets you may want to use are found here: 
 [Assets Link](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit-games) It will say it only is updated for 4.26, just open it with 4.27 and it will work fine.
 
-The character controller you will be using is under BP_HourOfCode_Character.
+The character controller you will be using is under `BP_HourOfCode_Character`.
 
 ## Part 1: Update Your Character
 The first thing you need to do is update your character. You need to do this in two ways.
@@ -65,26 +65,36 @@ The first thing you need to do is update your character. You need to do this in 
 
 ## Part 2: Make Some Enemies
 We need obstacles to fill our level. So lets make some enemies. You will be making 4 distinctly different enemy types.
-All enemy types should:
+<br/>
+### **Enemy Behavior**
+All enemies should do the following:
 -	Be destroyed when the players collides with their “head” (the top of whatever model you decide to use)
 -	Reduce the players health on collision with any part that is not the head
 -	Knock the player back and remove player control for a short duration after a health reducing collision
-The enemy types you will create are:
-1.	The Pursuer. The Pursuer should:
+### **Enemy Types
+You will create are the following types pf enemies
+
+#### **The Pursuer** 
+The Pursuer should:
 -	Have a looping patrol path that it follows
 -	Run at the player when they get within a moderate distance of each other, and they have line of sight with each other
 -	Within reason, return to its patrol path if the player gets too far away (this should be done by the enemy moving, not teleportation)
-2.	The Flyer. The Flyer should:
+
+#### **The Flyer**
+The Flyer should:
 -	Fly at a specific height above the player
 -	Move to a new location ever few seconds, trying to keep some distance between itself and the player (the exact form of this is up to you)
 -	Launch projectiles that lead the players movements
 -	The projectiles should reduce the players health on collision
-3.	The Mortar. The Mortar should:
+
+#### **The Mortar** 
+The Mortar should:
 -	Be an unmoving enemy placed on the ground
 -	Randomly launch projectiles above and around it in an arc
 -	The projectiles should cause a small explosion on collision with other objects
 -	The explosions should knock back and reduce the players health on collision
-4.	An enemy of your own design. It should have similar complexity to the other three and also be distinct and take on a different role.
+#### **Your Own Enemy**
+Create an enemy of your own design. It should have similar complexity to the other three and also be distinct and take on a different role.
 
 ## Part 3: Putting It All Together 
 The last step of the MP is to put it all together and make a platforming level.
