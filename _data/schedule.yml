@@ -46,7 +46,9 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Basic Geometric Modeling"
 -
   date: "Week 5: Feb 15"
-  materials: "**[Quiz 2 on Prairielearn due 2/22](https://www.prairielearn.org/pl/course_instance/129045/assessment/2317421)** <br/><br/>
+  materials: "**[Quiz 2 on Prairielearn due 2/22](https://www.prairielearn.org/pl/course_instance/129045/assessment/2317421)**<br/>
+              Quiz 2 Guide [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/quiz2.pdf) 
+  <br/><br/>
               Ray Tracing Basics [Video]()&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-RayTracing.pdf)<br/>
               How to get Started with Real Time Tracing in Unreal [Video](https://www.youtube.com/watch?v=Bk5HOtRwgd8) <br/>
               Unreal Engine 4 Ray Tracing Documentation [Link](https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/RayTracing/) <br/>
