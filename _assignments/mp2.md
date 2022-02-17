@@ -45,7 +45,7 @@ Your second MP is all about level design and all the important factors that go i
 
 To start you off we will need you to get familiar with the basics of how the level editor works in Unreal. We would recommend you complete the tutorial found here in order to do so:<br/><br/>
 [Tutorial Link](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LDQuickStart/0)
-
+<br/>
 Once you have done that you can continue on to the main assignment.
 
 Your objective with this assignment is to design and create your own 3D platformer level. You will be provided with a player character and you are going to place assets, add mechanics, and create enemies for that character to interact with.
