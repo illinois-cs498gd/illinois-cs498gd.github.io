@@ -78,7 +78,7 @@ All enemies should do the following:
 
 ### **Enemy Types**
 
-You will create are the following types pf enemies
+You will create the following types of enemies
 
 #### **The Pursuer** 
 The Pursuer should:
@@ -103,6 +103,8 @@ The Mortar should:
 #### **Your Own Enemy**
 Create an enemy of your own design. It should have similar complexity to the other three and also be distinct and take on a different role.
 
+You can use any assets you want for the enemies and their projectiles. Simple shapes will do as long as each enemy is visually distinct.
+
 ## Part 3: Putting It All Together 
 The last step of the MP is to put it all together and make a platforming level.
 
@@ -118,7 +120,7 @@ Your level should:
 - These objects should be destroyed on collection, and the number collected should be displayed some where on the UI
 - The design of the level should specifically take into account the flight mechanic, the mechanic you created, and your enemy design
 
-As far as environmental and visual assets, you can use any of the provided, built in, or any other assets in your level creation.
+As far as environmental and visual assets, you can use any of the provided, built in, or any other assets in your level creation. Feel free to work in the provided project or in your own new project.
 
 # Additional Submission Instructions
-In addition to usual instructions below, you should also submit a short written document, either pdf or docx format, explaining your process for designing your level. It should be at most a page long. It should explain how you went about the design process and how your design had to accommodate the new mechanic and enemy you created. 
+In addition to usual instructions below, you should also submit a short written document, either pdf or docx format, explaining your process for designing your level. It should be at most a page long. It should explain how you went about the design process and how your design had to accommodate the new mechanic and enemy you created.
