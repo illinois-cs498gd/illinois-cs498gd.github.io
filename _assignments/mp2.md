@@ -54,7 +54,7 @@ The basic player controller along with a large number of assets you may want to 
 [Assets Link](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit-games)<br/>
 It will say it only is updated for 4.26, just open it with 4.27 and it will work fine.
 
-The character controller you will be using is under `BP_HourOfCode_Character`.
+The character controller you will be using is under `BP_LearningKit_PlayerCharacter`.
 
 ## Part 1: Update Your Character
 The first thing you need to do is update your character. You need to do this in two ways.
