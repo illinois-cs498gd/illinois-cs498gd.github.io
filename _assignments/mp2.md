@@ -90,7 +90,7 @@ The Pursuer should:
 The Flyer should:
 -	Fly at a specific height above the player
 -	Move to a new location ever few seconds, trying to keep some distance between itself and the player (the exact form of this is up to you)
--	Launch projectiles that lead the players movements
+-	Launch projectiles that lead the players movements (by lead we mean travel to where the player is going to, not where they are)
 -	The projectiles should reduce the players health on collision
 
 #### **The Mortar** 
