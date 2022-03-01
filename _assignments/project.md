@@ -81,7 +81,8 @@ You will be graded on:
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |**0 points**|**0 points**|**0 points**|**0 points**|
 | Levels are inappropriate for the gameplay and genre, and hinders gameplay. | Visuals are incoherent, do not clearly represent the game and its mechanics, or are otherwise painful to look at. | The game lacks sound completely.<br />**OR** <br />Game’s sounds are inappropriate for the game genre and sound mixing is of poor quality as to make gameplay difficult or painful. | Game has numerous bugs that prevent the user from playing the game, either through inconsistent behavior or crashing the game. |
-| **2.5 points** Levels are appropriate for the genre, visually appropriate, and add challenge and complexity to the gameplay. | **2.5 points** Visuals are coherent, appropriate, and players can understand mechanics and game state simply through observing the current screen. | **2.5 points** The game includes sounds which are appropriate for the genre and gameplay instance. Included sounds serve a gameplay or experience purpos | **5 points** Game has no significant bugs or technical issues |
+|**2.5 points**|**2.5 points**|**2.5 points**|**5 points**|
+| Levels are appropriate for the genre, visually appropriate, and add challenge and complexity to the gameplay. | Visuals are coherent, appropriate, and players can understand mechanics and game state simply through observing the current screen. | The game includes sounds which are appropriate for the genre and gameplay instance. Included sounds serve a gameplay or experience purpos | Game has no significant bugs or technical issues |
 
 ## Peer Evaluation (5 points)
 **Due date: 11:59 PM May 7th**
