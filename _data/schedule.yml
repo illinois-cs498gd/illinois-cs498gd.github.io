@@ -77,8 +77,8 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Graphics: GPU Ray Tracing"
 - 
   date: "Week 7: Mar 1"
-  Pathfinding [Video](https://classtranscribe.illinois.edu/video?id=1fe9cc72-35da-4c92-beaf-90dabec2d268&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-AI-3.pdf) <br/>
-              A* [Video](https://classtranscribe.illinois.edu/video?id=9464b539-b000-4df0-bc81-398c9935b5ad&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-AI-4.pdf)
+  materials: "Pathfinding [Video](https://classtranscribe.illinois.edu/video?id=1fe9cc72-35da-4c92-beaf-90dabec2d268&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-AI-3.pdf) <br/>
+              A* [Video](https://classtranscribe.illinois.edu/video?id=9464b539-b000-4df0-bc81-398c9935b5ad&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-AI-4.pdf)"
   title: "Game AI" 
 -  
   date: "Week 7: Mar 3"
