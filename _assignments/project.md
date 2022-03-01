@@ -38,7 +38,7 @@ The final project is worth a total of **100 points**. Each subsection will be gr
 
 
 ## Discovery (10 of points)
-**Due date: 11:59 PM March 25 **
+**Due date: 11:59 PM March 25**
 
 The Discovery section is graded on completeness and correctness. Points will be taken off for incorrect submissions (such as missing documents) or for incorrectly filled sections. Therefore, please carefully inspect the style and format of the provided example documents. In particular:
 
@@ -54,10 +54,10 @@ Before the Alpha and Final submission due dates, groups will meet with their ass
 2. **Progress.** The group should make significant progress since Discovery for the first meeting, and since Alpha for the second meeting. The group should be ready to show what progress they made in each meeting. 
 3. **Feedback.** For the first meeting, groups should take into consideration feedback given for their Discovery grade. For the second meeting, they should consider feedback from Alpha. Groups should update their vision canvases, summaries, and technical design documents periodically to reflect this feedback and any changes in design, and should be prepared to discuss how they are going to incorporate this feedback.
 
-Meetings dates **TBD**
+**Meetings Dates TBD**
 
 ## Alpha (30 points)
-**Due date: 11:59 PM April 27 **
+**Due date: 11:59 PM April 27**
 
 The Alpha submission focuses on the completeness of your game and the implementation of high-priority features. Think of it as a rough draft. We are looking for a demonstration of your game’s features and gameplay. Visuals, sound, and minor mechanics do not have to be finalized. Additionally, we want groups to update their design documents to reflect the changes made to the game so far.
 
@@ -79,12 +79,11 @@ You will be graded on:
 
 | Level Design (2.5 points)                                    | Visuals (2.5 points)                                         | Sound (2.5 points)                                           | Technical Components ( 5 points)                             |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **0 points**<br /><br/>Levels are inappropriate for the gameplay and genre, and hinders gameplay. | **0 points**<br /><br/>Visuals are incoherent, do not clearly represent the game and its mechanics, or are otherwise painful to look at. | **0 points**<br /><br/>The game lacks sound completely.<br />**OR** <br />Game’s sounds are inappropriate for the game genre and sound mixing is of poor quality as to make gameplay difficult or painful. | **0 points**<br /><br/>Game has numerous bugs that prevent the user from playing the game, either through inconsistent behavior or crashing the game. |
-| **2.5 points**<br />Levels are appropriate for the genre, visually appropriate, and add challenge and complexity to the gameplay. | **2.5 points**<br />Visuals are coherent, appropriate, and players can understand mechanics and game state simply through observing the current screen. | **2.5 points**<br />The game includes sounds which are appropriate for the genre and gameplay instance. Included sounds serve a gameplay or experience purpos | **2.5 points**<br />Game has no significant bugs or technical issues |
-
-
+| **0 points** Levels are inappropriate for the gameplay and genre, and hinders gameplay. | **0 points** Visuals are incoherent, do not clearly represent the game and its mechanics, or are otherwise painful to look at. | **0 points** The game lacks sound completely.<br />**OR** <br />Game’s sounds are inappropriate for the game genre and sound mixing is of poor quality as to make gameplay difficult or painful. | **0 points** Game has numerous bugs that prevent the user from playing the game, either through inconsistent behavior or crashing the game. |
+| **2.5 points** Levels are appropriate for the genre, visually appropriate, and add challenge and complexity to the gameplay. | **2.5 points** Visuals are coherent, appropriate, and players can understand mechanics and game state simply through observing the current screen. | **2.5 points** The game includes sounds which are appropriate for the genre and gameplay instance. Included sounds serve a gameplay or experience purpos | **2.5 points** Game has no significant bugs or technical issues |
 
 ## Peer Evaluation (5 points)
+**Due date: 11:59 PM May 7th**
 
 The peer evaluation has two components to it: 
 
