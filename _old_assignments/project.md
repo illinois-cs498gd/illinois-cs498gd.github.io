@@ -14,17 +14,18 @@ rubric:
     name: Meetings 
     points: 5
     description: You will be meeting with your project mentor twice...you need to prepare and attend.
-- name: Alpha
+- 
+    name: Alpha
     points: 30
     description: The alpha should be a version of your game with at least the core gameplay completed and playable.
-    -
+-
     name: Final Submission
     points: 50
     description: A version of your game with at least all the high priority features done and in a fully playable state.
-    _
+-
     name: Peer Evaluation
     points: 5
-    description: You need to submit peeravaulations of your teammates. In addition, if you do not actively and equitably participate in the project work your total project grade will be significantly reduced.
+    description: You need to submit peer evaluations of your teammates. In addition, if you do not actively and equitably participate in the project work your total project grade will be significantly reduced.
 ---
 ![Boss](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/dh.jpg){:width="1024px"}
 
