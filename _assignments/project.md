@@ -38,7 +38,7 @@ The final project is worth a total of **100 points**. Each subsection will be gr
 
 
 ## Discovery (10 of points)
-**Due date: 11:59 PM March 25**
+**Due date: 11:59 PM March 30**
 
 The Discovery section is graded on completeness and correctness. Points will be taken off for incorrect submissions (such as missing documents) or for incorrectly filled sections. Therefore, please carefully inspect the style and format of the provided example documents. In particular:
 
