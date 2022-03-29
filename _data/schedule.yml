@@ -117,11 +117,13 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
   title: "Game Physics"
 -
   date: "Week 11: Mar 29"
-  materials: ""
+  materials: " **No Live Lecture ** <br/>
+  Physics in UE4 I [YouTube Video](https://youtu.be/mwbSi2R49ZY)&nbsp;[PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/498-UE4Physics.pdf)"
   title: "Game Physics"
 -
   date: "Week 11: Mar 31"
-  materials: ""
+  materials: "
+Physics in UE4 II [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/UE4Physics.pdf)"
   title: "Game Physics"
 - 
   date: "Week 12: April 5"
@@ -148,7 +150,7 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
 -
   date: "Week 15: April 26"
   materials: ""
-  title: "The Game Industry"
+  title: "The Game Industry I"
 -
   date: "Week 15: April 28"
   materials: ""
@@ -156,5 +158,5 @@ Anatomy of a Project [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.
 -
   date: "Week 16: May 3"
   materials: ""
-  title: "Project Demos"
+  title: "The Game Industry II"
 
