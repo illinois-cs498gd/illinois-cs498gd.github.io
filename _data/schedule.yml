@@ -127,12 +127,12 @@ Physics in UE4 II [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.git
   title: "Game Physics"
 - 
   date: "Week 12: April 5"
-  materials: ""
-  title: "Game Physics"
+  materials: "GDC/GTC 2022 NVIDIA Talk [PDF]()&nbsp;[Video]()"
+  title: "Real-time Path Tracing"
 -  
   date: "Week 12: April 7"
   materials: ""
-  title: "Game AI"
+  title: "Unreal Material Model"
 -
   date: "Week 13: April 12"
   materials: ""
@@ -143,14 +143,15 @@ Physics in UE4 II [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.git
   title: "Game AI"
 -  
   date: "Week 14: April 19"
-  title: "Game Audio"  
+  title: "Guest Lecture: Diana Huang <br/>
+          Software Engineer at Rec Room"  
 -  
   date: "Week 14: April 21"
   title: "Game Audio"
 -
   date: "Week 15: April 26"
   materials: ""
-  title: "The Game Industry I"
+  title: "Virtual Reality"
 -
   date: "Week 15: April 28"
   materials: ""
@@ -158,5 +159,5 @@ Physics in UE4 II [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.git
 -
   date: "Week 16: May 3"
   materials: ""
-  title: "The Game Industry II"
+  title: "Guest Lecture: Treyarch"
 
