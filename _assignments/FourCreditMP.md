@@ -36,7 +36,7 @@ For your 4-credit project you have two options:
 
 ### Proposing a Topic ###
 
-Please propose a topic using a CampusWire post to `instructors and TAs` with the subject `4 Credit Assignment`. Just very, very briefly list your tutorial topic or alternate proposal. Please do this by Dec.1 at the latest.  
+Please propose a topic using a CampusWire post to `instructors and TAs` with the subject `4 Credit Assignment`. Just very, very briefly list your tutorial topic or alternate proposal. Please do this by April 20th at the latest.  
 
 ## Submission ###
 
