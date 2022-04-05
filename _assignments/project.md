@@ -54,7 +54,10 @@ Before the Alpha and Final submission due dates, groups will meet with their ass
 2. **Progress.** The group should make significant progress since Discovery for the first meeting, and since Alpha for the second meeting. The group should be ready to show what progress they made in each meeting. 
 3. **Feedback.** For the first meeting, groups should take into consideration feedback given for their Discovery grade. For the second meeting, they should consider feedback from Alpha. Groups should update their vision canvases, summaries, and technical design documents periodically to reflect this feedback and any changes in design, and should be prepared to discuss how they are going to incorporate this feedback.
 
-**Meetings Dates To Be Determined**
+**First round of meetings: April 6-13.**
+**Secound round of meetings: April 27-29*.**
+
+Not much progress is expected for the first round of meetings, but a live demosntration is expected for the second (should technology permit). Feedback will be given during these meetings, and this feedback should be incorporated to the alpha and final submissions.
 
 ## Alpha (30 points)
 **Due date: 11:59 PM April 27**
