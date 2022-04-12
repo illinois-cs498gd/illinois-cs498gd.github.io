@@ -134,15 +134,17 @@ Physics in UE4 II [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.git
 -  
   date: "Week 12: April 7"
   materials: ""
-  title: "Unreal Material Model"
+  title: "Game Physics: Semi-Implicit Euler"
 -
   date: "Week 13: April 12"
-  materials: ""
-  title: "Game AI"
+  materials: "**[Live Zoom Link](https://illinois.zoom.us/j/89644390066?pwd=VUxXemhJODROZ1ZTZWJWLzFPSCtWQT09)**<br/>
+  **[Quiz 6 Link](https://www.prairielearn.org/pl/course_instance/129045/assessment/2318368) Due 5/4**<br/>
+  Tactical AI [PDF]() "
+  title: "Game AI: Tactical AI"
 -
   date: "Week 13: April 14"
   materials: ""
-  title: "Game AI"
+  title: "Game AI: Team AI"
 -  
   date: "Week 14: April 19"
   title: "Guest Lecture: Diana Huang <br/>
