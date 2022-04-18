@@ -78,7 +78,7 @@ The course project will be team-based with teams of 3 to 5 people working on a p
 
 #### 4 Credit Project ####
 
-Students taking the course for 4 credits should select one of the projects to complete from the **not yet available** [assignment page describing the 4 credit assignment](https://illinois-cs498gd.github.io/assignments/FourCreditMP.html). The level of effort will be about the same as one of the programming assignments.
+Students taking the course for 4 credits should select one of the projects to complete from the [assignment page describing the 4 credit assignment](https://illinois-cs498gd.github.io/assignments/FourCreditMP.html). The level of effort will be about the same as one of the programming assignments.
 
 ## Grades ##
 We will post grades on [Canvas](https://canvas.illinois.edu/){:target="_blank" rel="noopener"}.
