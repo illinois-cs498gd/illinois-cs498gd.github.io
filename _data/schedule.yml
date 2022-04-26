@@ -148,14 +148,14 @@ Physics in UE4 II [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.git
 -  
   date: "Week 14: April 19"
   title: "Guest Lecture: Diana Huang <br/>
-          Software Engineer at Rec Room <br/>
-          [Live Zoom Link](https://illinois.zoom.us/j/89644390066?pwd=VUxXemhJODROZ1ZTZWJWLzFPSCtWQT09)"  
+          Software Engineer at Rec Room"  
 -  
   date: "Week 14: April 21"
   title: "Game Audio"
 -
   date: "Week 15: April 26"
-  materials: ""
+  materials: "VR: Introduction [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-VR-Intro.pdf)<br/>
+              VR: Best Practices [PDF](https://github.com/illinois-cs498gd/illinois-cs498gd.github.io/raw/main/img/slides/415-VR-UE5.pdf)"
   title: "Virtual Reality"
 -
   date: "Week 15: April 28"
