@@ -80,6 +80,19 @@ Your final project submission. A version of your game with at least all the high
 
 You will be graded on:
 
+| Completion of High Priority Features (25 points) ||
+| :----------------------------------------------------------- | ----------------------------------------------------------- |
+| **0 points** | **25 points** |
+| Team completed fewer high priority features than there are members in the group. | Team completed all high priority features. <br />**OR**<br /> Team completed the overwhelming majority of high priority features; features that are incomplete have justified design reasons for their omission. |
+
+| Gameplay & Difficulty (10 points) | Fulfillment of Vision (2.5 points) |
+| :----------------------------------------------------------- | ----------------------------------------------------------- |
+|**0 points**|**0 points**|
+| Gameplay lacks appropriate complexity and challenge; end goals and fail states are ill-defined or inappropriate to the genre. | Delivered game is completely different from the designed proposed in the final submissions' Vision Canvas and Summary. Gameplay and mood do not match the genre and intended feel. |
+|**10 points**|**2.5 points**|
+|Gameplay is engaging and appropriate for the genre. Challenges within the game require mastery of skill to overcome. Goals and fail states are well-defined and obvious.|Delivered game largely aligns with the proposal in the final submission's Vision Canvas and Summary. Changes to game are reasonable and justified, such as being due to severe technical issues, availability of assets, etc.|
+
+
 | Level Design (2.5 points)                                    | Visuals (2.5 points)                                         | Sound (2.5 points)                                           | Technical Elements (5 points)                             |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |**0 points**|**0 points**|**0 points**|**0 points**|
